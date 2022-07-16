@@ -1,0 +1,101 @@
+Year,Type of Land Tenure,Geographical Region,Value
+2013,Owned,Jamaica,37.9
+2013,Owned,Rural,48.5
+2013,Owned,KMA,44.0
+2013,Owned,Other Towns,43.1
+2014,Owned,Jamaica,37.9
+2014,Owned,Rural,40.9
+2014,Owned,KMA,36.6
+2014,Owned,Other Towns,33.1
+2015,Owned,Jamaica,42.6
+2015,Owned,Rural,45.0
+2015,Owned,KMA,38.2
+2015,Owned,Other Towns,44.0
+2016,Owned,Jamaica,43.8
+2016,Owned,Rural,49.6
+2016,Owned,KMA,36.2
+2016,Owned,Other Towns,41.3
+2017,Owned,Jamaica,43.8
+2017,Owned,Rural,46.2
+2017,Owned,KMA,42.7
+2017,Owned,Other Towns,40.5
+2013,Leased,Jamaica,6.6
+2013,Leased,Rural,8.1
+2013,Leased,KMA,3.6
+2013,Leased,Other Towns,7.8
+2014,Leased,Jamaica,6.6
+2014,Leased,Rural,6.4
+2014,Leased,KMA,6.5
+2014,Leased,Other Towns,7.2
+2015,Leased,Jamaica,5.3
+2015,Leased,Rural,4.2
+2015,Leased,KMA,7.3
+2015,Leased,Other Towns,4.9
+2016,Leased,Jamaica,5.7
+2016,Leased,Rural,4.9
+2016,Leased,KMA,6.6
+2016,Leased,Other Towns,6.2
+2017,Leased,Jamaica,4.6
+2017,Leased,Rural,4.1
+2017,Leased,KMA,4.2
+2017,Leased,Other Towns,5.8
+2013,Rented,Jamaica,15.8
+2013,Rented,Rural,7.4
+2013,Rented,KMA,24.0
+2013,Rented,Other Towns,17.4
+2014,Rented,Jamaica,15.8
+2014,Rented,Rural,8.3
+2014,Rented,KMA,24.0
+2014,Rented,Other Towns,19.7
+2015,Rented,Jamaica,17.3
+2015,Rented,Rural,8.9
+2015,Rented,KMA,25.5
+2015,Rented,Other Towns,24.0
+2016,Rented,Jamaica,14.1
+2016,Rented,Rural,9.2
+2016,Rented,KMA,19.2
+2016,Rented,Other Towns,17.9
+2017,Rented,Jamaica,14.6
+2017,Rented,Rural,9.0
+2017,Rented,KMA,20.4
+2017,Rented,Other Towns,18.1
+2013,Rent Free,Jamaica,34.1
+2013,Rent Free,Rural,33.0
+2013,Rent Free,KMA,24.2
+2013,Rent Free,Other Towns,25.6
+2014,Rent Free,Jamaica,34.1
+2014,Rent Free,Rural,39.1
+2014,Rent Free,KMA,28.5
+2014,Rent Free,Other Towns,31.8
+2015,Rent Free,Jamaica,31.0
+2015,Rent Free,Rural,38.4
+2015,Rent Free,KMA,25.3
+2015,Rent Free,Other Towns,22.7
+2016,Rent Free,Jamaica,31.2
+2016,Rent Free,Rural,32.7
+2016,Rent Free,KMA,33.1
+2016,Rent Free,Other Towns,25.6
+2017,Rent Free,Jamaica,32.5
+2017,Rent Free,Rural,39.0
+2017,Rent Free,KMA,26.6
+2017,Rent Free,Other Towns,27.7
+2013,Squatted,Jamaica,5.3
+2013,Squatted,Rural,2.1
+2013,Squatted,KMA,4.2
+2013,Squatted,Other Towns,5.9
+2014,Squatted,Jamaica,5.3
+2014,Squatted,Rural,4.6
+2014,Squatted,KMA,4.4
+2014,Squatted,Other Towns,8.3
+2015,Squatted,Jamaica,3.5
+2015,Squatted,Rural,3.1
+2015,Squatted,KMA,3.6
+2015,Squatted,Other Towns,4.2
+2016,Squatted,Jamaica,4.4
+2016,Squatted,Rural,2.3
+2016,Squatted,KMA,4.5
+2016,Squatted,Other Towns,8.6
+2017,Squatted,Jamaica,4.1
+2017,Squatted,Rural,1.2
+2017,Squatted,KMA,5.8
+2017,Squatted,Other Towns,7.3
