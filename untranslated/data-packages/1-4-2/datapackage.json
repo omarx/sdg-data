@@ -12,7 +12,34 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Type of Land Tenure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Owned",
+                "Leased",
+                "Rented",
+                "Rent Free",
+                "Squatted",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geographical Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Jamaica",
+                "Rural",
+                "KMA",
+                "Other Towns",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

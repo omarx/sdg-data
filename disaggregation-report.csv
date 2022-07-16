@@ -1,8 +1,10 @@
 Disaggregation,Number of indicators,Number of values
 Age Group,1,7
 Geographic Region,2,23
+Geographical Region,1,4
 Group,1,2
 Population Group,1,10
 Sex,1,2
 Type of Benefit,1,4
+Type of Land Tenure,1,5
 Unit,1,13
