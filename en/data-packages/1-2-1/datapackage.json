@@ -12,8 +12,51 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Geographic Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Jamaica",
+                "Rural Area",
+                "Greater Kingston Metropolitan Area (GKMA)",
+                "Other Urban Centres",
+                ""
+              ]
+            },
+            "title": "Geographic Region"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Age Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Early Childhood (0-8)",
+                "Children (0-17)",
+                "Adolescents (10-19)",
+                "Youth( 15-24)",
+                "Young Adults (25-34)",
+                "Prime Working Age (35-59)",
+                "Elderly (60+)",
+                ""
+              ]
+            },
+            "title": "Age Group"
           },
           {
             "name": "Value",
