@@ -106,6 +106,117 @@
       "title": "Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)"
     },
     {
+      "path": "1-3-1/data.csv",
+      "name": "1-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Type of Benefit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Population covered by PATH",
+                "Persons Registered with the National Insurance Scheme",
+                "Outdoor Persons Registered on Poor Relief Programme",
+                "Indoor Persons Registered on Poor Relief Programme",
+                ""
+              ]
+            },
+            "title": "Type of Benefit"
+          },
+          {
+            "name": "Geographic Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Jamaica",
+                "KMA",
+                "OUC",
+                "Rural",
+                "Kingston & St Andrew",
+                "St Thomas",
+                "Portland",
+                "Portland. Female",
+                "St Mary",
+                "St Mary Female",
+                "St Ann",
+                "Trelawny",
+                "St James",
+                "Hanover",
+                "Westmoreland",
+                "St Elizabeth",
+                "Manchester",
+                "Clarendon",
+                "St Catherine",
+                "St Mary Total",
+                ""
+              ]
+            },
+            "title": "Geographic Region"
+          },
+          {
+            "name": "Population Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Children",
+                "Adult",
+                "Persons with disabilities",
+                "Elderly",
+                "Pregnant and Lactating Women",
+                "Male",
+                "Female",
+                "Total",
+                "Number",
+                "per 100.000 population",
+                ""
+              ]
+            },
+            "title": "Population Group"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                "Number",
+                "587",
+                "204",
+                "939",
+                "per 100.000 population",
+                "242",
+                "524",
+                "St Mary",
+                "St Ann",
+                "19",
+                "35",
+                "98",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable"
+    },
+    {
       "path": "1-2-2/data.csv",
       "name": "1-2-2",
       "profile": "tabular-data-resource",
@@ -128,30 +239,6 @@
         ]
       },
       "title": "(a) Hazardous waste generated per capita; and (b) proportion of hazardous waste treated, by type of treatment"
-    },
-    {
-      "path": "1-3-1/data.csv",
-      "name": "1-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable"
     },
     {
       "path": "1-4-1/data.csv",

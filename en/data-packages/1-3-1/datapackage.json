@@ -12,8 +12,95 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Type of Benefit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Population covered by PATH",
+                "Persons Registered with the National Insurance Scheme",
+                "Outdoor Persons Registered on Poor Relief Programme",
+                "Indoor Persons Registered on Poor Relief Programme",
+                ""
+              ]
+            },
+            "title": "Type of Benefit"
+          },
+          {
+            "name": "Geographic Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Jamaica",
+                "KMA",
+                "OUC",
+                "Rural",
+                "Kingston & St Andrew",
+                "St Thomas",
+                "Portland",
+                "Portland. Female",
+                "St Mary",
+                "St Mary Female",
+                "St Ann",
+                "Trelawny",
+                "St James",
+                "Hanover",
+                "Westmoreland",
+                "St Elizabeth",
+                "Manchester",
+                "Clarendon",
+                "St Catherine",
+                "St Mary Total",
+                ""
+              ]
+            },
+            "title": "Geographic Region"
+          },
+          {
+            "name": "Population Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Children",
+                "Adult",
+                "Persons with disabilities",
+                "Elderly",
+                "Pregnant and Lactating Women",
+                "Male",
+                "Female",
+                "Total",
+                "Number",
+                "per 100.000 population",
+                ""
+              ]
+            },
+            "title": "Population Group"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                "Number",
+                "587",
+                "204",
+                "939",
+                "per 100.000 population",
+                "242",
+                "524",
+                "St Mary",
+                "St Ann",
+                "19",
+                "35",
+                "98",
+                ""
+              ]
+            },
+            "title": "Unit"
           },
           {
             "name": "Value",
