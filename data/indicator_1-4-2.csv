@@ -1,4 +1,24 @@
 Year,Type of Land Tenure,Geographical Region,Value
+2019,Owned,Jamaica,40.6
+2019,Owned,Rural,43.5
+2019,Owned,GKMA,37.3
+2019,Owned,Other Urban Centre,39.3
+2019,Leased,Jamaica,4.5
+2019,Leased,Rural,4.2
+2019,Leased,GKMA,3.3
+2019,Leased,Other Urban Centre,6.9
+2019,Rented,Jamaica,15.9
+2019,Rented,Rural,9.7
+2019,Rented,GKMA,24.4
+2019,Rented,Other Urban Centre,16.2
+2019,Rent Free,Jamaica,35.6
+2019,Rent Free,Rural,40.7
+2019,Rent Free,GKMA,31.1
+2019,Rent Free,Other Urban Centre,31.7
+2019,Squatted,Jamaica,3.3
+2019,Squatted,Rural,1.7
+2019,Squatted,GKMA,4.0
+2019,Squatted,Other Urban cenntre,5.9
 2013,Owned,Jamaica,37.9
 2013,Owned,Rural,48.5
 2013,Owned,KMA,44.0

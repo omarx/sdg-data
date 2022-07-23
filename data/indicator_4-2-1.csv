@@ -1,0 +1,97 @@
+Year,Development Type,Sex,Geographic Location,Age Group,Preschool attendance,Wealth Index Quintiles,Value
+2011,Literacy-Numeracy,Male,,,,,63.1
+2011,Literacy-Numeracy,Female,,,,,68.4
+2011,Literacy-Numeracy,,KMA,,,,73.4
+2011,Literacy-Numeracy,,Other Towns,,,,69.8
+2011,Literacy-Numeracy,,Urban,,,,72.3
+2011,Literacy-Numeracy,,Rural,,,,56.9
+2011,Literacy-Numeracy,,,36-47 months,,,52.3
+2011,Literacy-Numeracy,,,48-59 months,,,75.8
+2011,Literacy-Numeracy,,,,Attending preschool,,68.4
+2011,Literacy-Numeracy,,,,Not attending preschool,,35.1
+2011,Literacy-Numeracy,,,,,Poorest,48.9
+2011,Literacy-Numeracy,,,,,Second,67.3
+2011,Literacy-Numeracy,,,,,Middle,72.1
+2011,Literacy-Numeracy,,,,,Fourth,74.1
+2011,Literacy-Numeracy,,,,,Richest,70.0
+2017,Literacy-Numeracy,,,,,Total,65.5
+2011,Physical,Male,,,,,97.9
+2011,Physical,Female,,,,,99.1
+2011,Physical,,KMA,,,,99.0
+2011,Physical,,Other Towns,,,,98.3
+2011,Physical,,Urban,,,,98.8
+2011,Physical,,Rural,,,,98.0
+2011,Physical,,,36-47 months,,,98.4
+2011,Physical,,,48-59 months,,,98.4
+2011,Physical,,,,Attending preschool,,99.0
+2011,Physical,,,,Not attending preschool,,92.8
+2011,Physical,,,,,Poorest,97.5
+2011,Physical,,,,,Second,98.0
+2011,Physical,,,,,Middle,100
+2011,Physical,,,,,Fourth,97.1
+2011,Physical,,,,,Richest,100
+2017,Physical,,,,,Total,98.4
+2011,Social-Emotional,Male,,,,,75.4
+2011,Social-Emotional,Female,,,,,82.0
+2011,Social-Emotional,,KMA,,,,79.6
+2011,Social-Emotional,,Other Towns,,,,75.1
+2011,Social-Emotional,,Urban,,,,78.3
+2011,Social-Emotional,,Rural,,,,78.7
+2011,Social-Emotional,,,36-47 months,,,75.1
+2011,Social-Emotional,,,48-59 months,,,81.1
+2011,Social-Emotional,,,,Attending preschool,,79.2
+2011,Social-Emotional,,,,Not attending preschool,,71.0
+2011,Social-Emotional,,,,,Poorest,67.6
+2011,Social-Emotional,,,,,Second,79.8
+2011,Social-Emotional,,,,,Middle,80.7
+2011,Social-Emotional,,,,,Fourth,79.2
+2011,Social-Emotional,,,,,Richest,90.0
+2017,Social-Emotional,,,,,Total,78.5
+2011,Learning,Male,,,,,97.0
+2011,Learning,Female,,,,,97.5
+2011,Learning,,KMA,,,,97.7
+2011,Learning,,Other Towns,,,,97.5
+2011,Learning,,Urban,,,,97.6
+2011,Learning,,Rural,,,,96.7
+2011,Learning,,,36-47 months,,,96.5
+2011,Learning,,,48-59 months,,,97.8
+2011,Learning,,,,Attending preschool,,98.0
+2011,Learning,,,,Not attending preschool,,88.8
+2011,Learning,,,,,Poorest,95.5
+2011,Learning,,,,,Second,97.3
+2011,Learning,,,,,Middle,99.6
+2011,Learning,,,,,Fourth,96.0
+2011,Learning,,,,,Richest,98.0
+2017,Learning,,,,,Total,97.2
+2011,Early Childhood Development Index Score,Male,,,,,85.9
+2011,Early Childhood Development Index Score,Female,,,,,93
+2011,Early Childhood Development Index Score,,KMA,,,,92.0
+2011,Early Childhood Development Index Score,,Other Towns,,,,86.4
+2011,Early Childhood Development Index Score,,Urban,,,,90.3
+2011,Early Childhood Development Index Score,,Rural,,,,87.6
+2011,Early Childhood Development Index Score,,,36-47 months,,,86.0
+2011,Early Childhood Development Index Score,,,48-59 months,,,91.5
+2011,Early Childhood Development Index Score,,,,Attending preschool,,90.2
+2011,Early Childhood Development Index Score,,,,Not attending preschool,,77.8
+2011,Early Childhood Development Index Score,,,,,Poorest,79.1
+2011,Early Childhood Development Index Score,,,,,Second,90.1
+2011,Early Childhood Development Index Score,,,,,Middle,93.9
+2011,Early Childhood Development Index Score,,,,,Fourth,88.9
+2011,Early Childhood Development Index Score,,,,,Richest,97.1
+2017,Early Childhood Development Index Score,,,,,Total,89.1
+2011,Number of children age 36-59 months,Male,,,,,359
+2011,Number of children age 36-59 months,Female,,,,,303
+2011,Number of children age 36-59 months,,KMA,,,,261
+2011,Number of children age 36-59 months,,Other Towns,,,,111
+2011,Number of children age 36-59 months,,Urban,,,,372
+2011,Number of children age 36-59 months,,Rural,,,,290
+2011,Number of children age 36-59 months,,,36-47 months,,,289
+2011,Number of children age 36-59 months,,,48-59 months,,,373
+2011,Number of children age 36-59 months,,,,Attending preschool,,605
+2011,Number of children age 36-59 months,,,,Not attending preschool,,57
+2011,Number of children age 36-59 months,,,,,Poorest,154
+2011,Number of children age 36-59 months,,,,,Second,165
+2011,Number of children age 36-59 months,,,,,Middle,137
+2011,Number of children age 36-59 months,,,,,Fourth,112
+2011,Number of children age 36-59 months,,,,,Richest,93
+2011,Number of children age 36-59 months,,,,,Total,662

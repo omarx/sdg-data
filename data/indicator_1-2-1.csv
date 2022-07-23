@@ -1,14 +1,79 @@
-"Year","Geographic Region","Sex","Age Group","Value"
-"2019","Jamaica","","","11.0"
-"2019","Rural Area","","","14.2"
-"2019","Greater Kingston Metropolitan Area (GKMA)","","","4.7"
-"2019","Other Urban Centres","","","14.2"
-"2019","","Male","","12.3"
-"2019","","Female","","9.8"
-"2019","","","Early Childhood (0-8)","13.9"
-"2019","","","Children (0-17)","13.3"
-"2019","","","Adolescents (10-19)","13.9"
-"2019","","","Youth( 15-24)","13.7"
-"2019","","","Young Adults (25-34)","8.9"
-"2019","","","Prime Working Age (35-59)","9.3"
-"2019","","","Elderly (60+)","9.4"
+Year,Geographic Region,Sex,Age Group,Value
+2019,Jamaica,,,11.0
+2019,Rural Area,,,14.2
+2019,Greater Kingston Metropolitan Area (GKMA),,,4.7
+2019,Other Urban Centres,,,14.2
+2019,,Male,,12.3
+2019,,Female,,9.8
+2019,,,Early Childhood (0-8),13.9
+2019,,,Children (0-17),13.3
+2019,,,Adolescents (10-19),13.9
+2019,,,Youth( 15-24),13.7
+2019,,,Young Adults (25-34),8.9
+2019,,,Prime Working Age (35-59),9.3
+2019,,,Elderly (60+),9.4
+2010,Jamaica,,,17.6
+2010,Rural Area,,,23.2
+2010,Greater Kingston Metropolitan Area (GKMA),,,14.4
+2010,Other Urban Centres,,,11.6
+2010,,Male,,11.1
+2010,,Female,,13.8
+2010,,,Early Childhood (0-8),20.8
+2010,,,Children (0--17),21.9
+2010,,,Adolescents (10-19),22.3
+2010,,,Youth(15-24),20.1
+2010,,,Young Adults (25-34),13.3
+2010,,,Prime Working Age (35-59),14.2
+2010,,,Elderly (60+),15.9
+2012,Jamaica,,,19.9
+2012,Rural Area,,,21.3
+2012,Greater Kingston Metropolitan Area (GKMA),,,19.7
+2012,Other Urban Centres,,,16.6
+2012,,Male,,13.2
+2012,,Female,,15.9
+2012,,,Early Childhood (0-8),26.0
+2012,,,Children (0-17),25.0
+2012,,,Adolescents (10-19),24.0
+2012,,,Youth( 15-24),23.6
+2012,,,Young Adults (25-34),17.0
+2012,,,Prime Working Age (35-59),16.6
+2012,,,Elderly (60+),14.6
+2013,Jamaica,,,24.6
+2013,Rural Area,,,31.3
+2013,Greater Kingston Metropolitan Area (GKMA),,,17.8
+2013,Other Urban Centres,,,20.0
+2013,,Male,,15.4
+2013,,Female,,19.1
+2013,,,Early Childhood (0-8),29.6
+2013,,,Children (0-17),32.1
+2013,,,Adolescents (10-19),32.9
+2013,,,Youth( 15-24),29.8
+2013,,,Young Adults (25-34),19.0
+2013,,,Prime Working Age (35-59),20.1
+2013,,,Elderly (60+),17.5
+2014,Jamaica,,,20.0
+2014,Rural Area,,,24.9
+2014,Greater Kingston Metropolitan Area (GKMA),,,15.3
+2014,Other Urban Centres,,,16.2
+2014,,Male,,12.0
+2014,,Female,,15.4
+2014,,,Early Childhood (0-8),23.9
+2014,,,Children (0-17),25.6
+2014,,,Adolescents (10-19),27.5
+2014,,,Youth( 15-24),23.5
+2014,,,Young Adults (25-34),16.7
+2014,,,Prime Working Age (35-59),16.2
+2014,,,Elderly (60+),15.2
+2015,Jamaica,,,21.2
+2015,Rural Area,,,28.5
+2015,Greater Kingston Metropolitan Area (GKMA),,,14.3
+2015,Other Urban Centres,,,14.7
+2015,,Male,,14.0
+2015,,Female,,16.6
+2015,,,Early Childhood (0-8),24.2
+2015,,,Children (0-17),26.5
+2015,,,Adolescents (10-19),27.8
+2015,,,Youth( 15-24),26.2
+2015,,,Young Adults (25-34),18.8
+2015,,,Prime Working Age (35-59),16.3
+2015,,,Elderly (60+),17.9

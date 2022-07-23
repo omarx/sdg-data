@@ -1,0 +1,553 @@
+Year,Quarter,Sex,Age Group,Value
+2019,January,Both Sexes,Total,8.0
+2019,January,Both Sexes,14-19,32.4
+2019,January,Both Sexes,20-24,19.7
+2019,January,Both Sexes,25-34,9.3
+2019,January,Both Sexes,35-44,5.1
+2019,January,Both Sexes,45-54,3.8
+2019,January,Both Sexes,55-64,2.6
+2019,January,Both Sexes,65 and over,2.1
+2019,April,Both Sexes,Total,7.8
+2019,April,Both Sexes,14-19,25.3
+2019,April,Both Sexes,20-24,18.2
+2019,April,Both Sexes,25-34,8.7
+2019,April,Both Sexes,35-44,6.3
+2019,April,Both Sexes,45-54,3.6
+2019,April,Both Sexes,55-64,3.3
+2019,April,Both Sexes,65 and over,1.3
+2019,July,Both Sexes,Total,7.8
+2019,July,Both Sexes,14-19,32.8
+2019,July,Both Sexes,20-24,17.3
+2019,July,Both Sexes,25-34,8.4
+2019,July,Both Sexes,35-44,5.6
+2019,July,Both Sexes,45-54,3.6
+2019,July,Both Sexes,55-64,3.5
+2019,July,Both Sexes,65 and over,2.2
+2019,October,Both Sexes,Total,7.2
+2019,October,Both Sexes,14-19,35.4
+2019,October,Both Sexes,20-24,17.8
+2019,October,Both Sexes,25-34,7.2
+2019,October,Both Sexes,35-44,4.7
+2019,October,Both Sexes,45-54,3.2
+2019,October,Both Sexes,55-64,2.2
+2019,October,Both Sexes,65 and over,2.0
+2019,January,Male,Total,6.1
+2019,January,Male,14-19,26.0
+2019,January,Male,20-24,16.1
+2019,January,Male,25-34,6.9
+2019,January,Male,35-44,3.3
+2019,January,Male,45-54,2.8
+2019,January,Male,55-64,1.6
+2019,January,Male,65 and over,2.0
+2019,April,Male,Total,5.4
+2019,April,Male,14-19,19.6
+2019,April,Male,20-24,13.4
+2019,April,Male,25-34,5.6
+2019,April,Male,35-44,3.8
+2019,April,Male,45-54,2.8
+2019,April,Male,55-64,3.0
+2019,April,Male,65 and over,0.9
+2019,July,Male,Total,5.8
+2019,July,Male,14-19,28.5
+2019,July,Male,20-24,14.0
+2019,July,Male,25-34,5.9
+2019,July,Male,35-44,2.6
+2019,July,Male,45-54,2.7
+2019,July,Male,55-64,3.1
+2019,July,Male,65 and over,2.4
+2019,October,Male,Total,6.0
+2019,October,Male,14-19,35.0
+2019,October,Male,20-24,14.1
+2019,October,Male,25-34,6.1
+2019,October,Male,35-44,3.3
+2019,October,Male,45-54,2.3
+2019,October,Male,55-64,2.2
+2019,October,Male,65 and over,2.2
+2019,January,Female,Total,10.2
+2019,January,Female,14-19,41.7
+2019,January,Female,20-24,23.9
+2019,January,Female,25-34,11.8
+2019,January,Female,35-44,6.9
+2019,January,Female,45-54,4.9
+2019,January,Female,55-64,3.9
+2019,January,Female,65 and over,2.3
+2019,April,Female,Total,10.6
+2019,April,Female,14-19,33.1
+2019,April,Female,20-24,24.3
+2019,April,Female,25-34,11.9
+2019,April,Female,35-44,8.9
+2019,April,Female,45-54,4.5
+2019,April,Female,55-64,3.7
+2019,April,Female,65 and over,2.2
+2019,July,Female,Total,10.2
+2019,July,Female,14-19,38.3
+2019,July,Female,20-24,21.3
+2019,July,Female,25-34,11.0
+2019,July,Female,35-44,8.6
+2019,July,Female,45-54,4.6
+2019,July,Female,55-64,4.1
+2019,July,Female,65 and over,1.8
+2019,October,Female,Total,8.6
+2019,October,Female,14-19,35.8
+2019,October,Female,20-24,22.3
+2019,October,Female,25-34,8.5
+2019,October,Female,35-44,6.0
+2019,October,Female,45-54,4.2
+2019,October,Female,55-64,2.3
+2019,October,Female,65 and over,1.7
+2020,January,Both Sexes,Total,7.3
+2020,January,Both Sexes,14-19,30.1
+2020,January,Both Sexes,20-24,16.3
+2020,January,Both Sexes,25-34,8.2
+2020,January,Both Sexes,35-44,5.2
+2020,January,Both Sexes,45-54,3.1
+2020,January,Both Sexes,55-64,2.4
+2020,January,Both Sexes,65 and over,2.9
+2020,July,Both Sexes,Total,12.6
+2020,July,Both Sexes,14-19,40.7
+2020,July,Both Sexes,20-24,27.9
+2020,July,Both Sexes,25-34,134.4
+2020,July,Both Sexes,35-44,8.5
+2020,July,Both Sexes,45-54,7.3
+2020,July,Both Sexes,55-64,6.1
+2020,July,Both Sexes,65 and over,4.2
+2020,October,Both Sexes,Total,10.7
+2020,October,Both Sexes,14-19,40.5
+2020,October,Both Sexes,20-24,25.4
+2020,October,Both Sexes,25-34,11.1
+2020,October,Both Sexes,35-44,7.4
+2020,October,Both Sexes,45-54,6.6
+2020,October,Both Sexes,55-64,4.0
+2020,October,Both Sexes,65 and over,2.8
+2020,January,Male,Total,5.9
+2020,January,Male,14-19,30.5
+2020,January,Male,20-24,14.2
+2020,January,Male,25-34,6.4
+2020,January,Male,35-44,3.2
+2020,January,Male,45-54,2.2
+2020,January,Male,55-64,1.9
+2020,January,Male,65 and over,2.4
+2020,July,Male,Total,11.5
+2020,July,Male,14-19,36.8
+2020,July,Male,20-24,26.1
+2020,July,Male,25-34,13.1
+2020,July,Male,35-44,7.2
+2020,July,Male,45-54,6.7
+2020,July,Male,55-64,5.1
+2020,July,Male,65 and over,3.6
+2020,October,Male,Total,8.7
+2020,October,Male,14-19,33.0
+2020,October,Male,20-24,21.3
+2020,October,Male,25-34,7.9
+2020,October,Male,35-44,6.3
+2020,October,Male,45-54,5.4
+2020,October,Male,55-64,3.6
+2020,October,Male,65 and over,2.3
+2020,January,Female,Total,8.9
+2020,January,Female,14-19,29.6
+2020,January,Female,20-24,18.8
+2020,January,Female,25-34,10.1
+2020,January,Female,35-44,7.2
+2020,January,Female,45-54,4.2
+2020,January,Female,55-64,3.1
+2020,January,Female,65 and over,3.9
+2020,July,Female,Total,13.9
+2020,July,Female,14-19,48.4
+2020,July,Female,20-24,30.1
+2020,July,Female,25-34,15.9
+2020,July,Female,35-44,9.8
+2020,July,Female,45-54,7.9
+2020,July,Female,55-64,7.5
+2020,July,Female,65 and over,5.5
+2020,October,Female,Total,13.2
+2020,October,Female,14-19,53.3
+2020,October,Female,20-24,30.3
+2020,October,Female,25-34,14.4
+2020,October,Female,35-44,8.6
+2020,October,Female,45-54,8.0
+2020,October,Female,55-64,4.5
+2020,October,Female,65 and over,3.9
+2021,January,Both Sexes,Total,8.9
+2021,January,Both Sexes,14-19,37.3
+2021,January,Both Sexes,20-24,19.0
+2021,January,Both Sexes,25-34,9.3
+2021,January,Both Sexes,35-44,6.3
+2021,January,Both Sexes,45-54,5.2
+2021,January,Both Sexes,55-64,3.3
+2021,January,Both Sexes,65 and over,2.7
+2021,April,Both Sexes,Total,9.0
+2021,April,Both Sexes,14-19,33.8
+2021,April,Both Sexes,20-24,21.8
+2021,April,Both Sexes,25-34,9.8
+2021,April,Both Sexes,35-44,5.5
+2021,April,Both Sexes,45-54,5.1
+2021,April,Both Sexes,55-64,3.8
+2021,April,Both Sexes,65 and over,2.7
+2021,July,Both Sexes,Total,8.5
+2021,July,Both Sexes,14-19,32.4
+2021,July,Both Sexes,20-24,22.1
+2021,July,Both Sexes,25-34,8.8
+2021,July,Both Sexes,35-44,4.9
+2021,July,Both Sexes,45-54,4.7
+2021,July,Both Sexes,55-64,3.2
+2021,July,Both Sexes,65 and over,2.8
+2021,October,Both Sexes,Total,7.1
+2021,October,Both Sexes,14-19,26.3
+2021,October,Both Sexes,20-24,17.2
+2021,October,Both Sexes,25-34,7.2
+2021,October,Both Sexes,35-44,4.9
+2021,October,Both Sexes,45-54,4.2
+2021,October,Both Sexes,55-64,3.3
+2021,October,Both Sexes,65 and over,1.8
+2021,January,Male,Total,7.6
+2021,January,Male,14-19,32.9
+2021,January,Male,20-24,15.6
+2021,January,Male,25-34,8.3
+2021,January,Male,35-44,4.9
+2021,January,Male,45-54,4.2
+2021,January,Male,55-64,3.0
+2021,January,Male,65 and over,2.3
+2021,April,Male,Total,7.5
+2021,April,Male,14-19,29.2
+2021,April,Male,20-24,18.8
+2021,April,Male,25-34,7.8
+2021,April,Male,35-44,3.9
+2021,April,Male,45-54,4.5
+2021,April,Male,55-64,2.8
+2021,April,Male,65 and over,2.1
+2021,July,Male,Total,6.3
+2021,July,Male,14-19,27.6
+2021,July,Male,20-24,16.3
+2021,July,Male,25-34,6.4
+2021,July,Male,35-44,3.3
+2021,July,Male,45-54,3.5
+2021,July,Male,55-64,2.1
+2021,July,Male,65 and over,2.5
+2021,October,Male,Total,5.5
+2021,October,Male,14-19,22.2
+2021,October,Male,20-24,15.3
+2021,October,Male,25-34,5.1
+2021,October,Male,35-44,2.9
+2021,October,Male,45-54,3.5
+2021,October,Male,55-64,2.5
+2021,October,Male,65 and over,1.5
+2021,January,Female,Total,10.4
+2021,January,Female,14-19,44.6
+2021,January,Female,20-24,22.9
+2021,January,Female,25-34,10.3
+2021,January,Female,35-44,7.7
+2021,January,Female,45-54,6.5
+2021,January,Female,55-64,3.6
+2021,January,Female,65 and over,3.4
+2021,April,Female,Total,10.8
+2021,April,Female,14-19,43.0
+2021,April,Female,20-24,25.5
+2021,April,Female,25-34,11.9
+2021,April,Female,35-44,7.1
+2021,April,Female,45-54,5.9
+2021,April,Female,55-64,5.3
+2021,April,Female,65 and over,3.6
+2021,July,Female,Total,11.1
+2021,July,Female,14-19,39.8
+2021,July,Female,20-24,29.3
+2021,July,Female,25-34,11.4
+2021,July,Female,35-44,6.4
+2021,July,Female,45-54,6.3
+2021,July,Female,55-64,4.8
+2021,July,Female,65 and over,3.4
+2021,October,Female,Total,9.0
+2021,October,Female,14-19,31.2
+2021,October,Female,20-24,19.4
+2021,October,Female,25-34,9.4
+2021,October,Female,35-44,6.9
+2021,October,Female,45-54,5.1
+2021,October,Female,55-64,4.3
+2021,October,Female,65 and over,2.6
+2016,January,Both Sexes,Total,13.3
+2016,January,Both Sexes,14-19,47.9
+2016,January,Both Sexes,20-24,30.2
+2016,January,Both Sexes,25-34,15.5
+2016,January,Both Sexes,35-44,8.5
+2016,January,Both Sexes,45-54,7.5
+2016,January,Both Sexes,55-64,3.9
+2016,January,Both Sexes,65 and over,3.0
+2016,April,Both Sexes,Total,13.7
+2016,April,Both Sexes,14-19,44.4
+2016,April,Both Sexes,20-24,29.2
+2016,April,Both Sexes,25-34,15.1
+2016,April,Both Sexes,35-44,11.0
+2016,April,Both Sexes,45-54,6.7
+2016,April,Both Sexes,55-64,5.4
+2016,April,Both Sexes,65 and over,3.8
+2016,July,Both Sexes,Total,12.9
+2016,July,Both Sexes,14-19,39.3
+2016,July,Both Sexes,20-24,27.4
+2016,July,Both Sexes,25-34,15.5
+2016,July,Both Sexes,35-44,9.6
+2016,July,Both Sexes,45-54,6.7
+2016,July,Both Sexes,55-64,4.7
+2016,July,Both Sexes,65 and over,3.4
+2016,October,Both Sexes,Total,12.9
+2016,October,Both Sexes,14-19,46.1
+2016,October,Both Sexes,20-24,28.6
+2016,October,Both Sexes,25-34,14.4
+2016,October,Both Sexes,35-44,8.5
+2016,October,Both Sexes,45-54,5.7
+2016,October,Both Sexes,55-64,4.9
+2016,October,Both Sexes,65 and over,4.4
+2016,January,Male,Total,10.4
+2016,January,Male,14-19,37.3
+2016,January,Male,20-24,27.7
+2016,January,Male,25-34,11.0
+2016,January,Male,35-44,5.6
+2016,January,Male,45-54,5.7
+2016,January,Male,55-64,2.9
+2016,January,Male,65 and over,3.7
+2016,April,Male,Total,9.6
+2016,April,Male,14-19,38.1
+2016,April,Male,20-24,23.9
+2016,April,Male,25-34,9.4
+2016,April,Male,35-44,5.3
+2016,April,Male,45-54,4.9
+2016,April,Male,55-64,4.7
+2016,April,Male,65 and over,2.4
+2016,July,Male,Total,9.5
+2016,July,Male,14-19,33.7
+2016,July,Male,20-24,24.2
+2016,July,Male,25-34,10.0
+2016,July,Male,35-44,4.9
+2016,July,Male,45-54,5.3
+2016,July,Male,55-64,4.4
+2016,July,Male,65 and over,2.4
+2016,October,Male,Total,8.9
+2016,October,Male,14-19,35.9
+2016,October,Male,20-24,22.3
+2016,October,Male,25-34,8.9
+2016,October,Male,35-44,5.0
+2016,October,Male,45-54,3.4
+2016,October,Male,55-64,4.2
+2016,October,Male,65 and over,4.5
+2016,January,Female,Total,16.7
+2016,January,Female,14-19,62.7
+2016,January,Female,20-24,33.2
+2016,January,Female,25-34,20.3
+2016,January,Female,35-44,11.6
+2016,January,Female,45-54,9.6
+2016,January,Female,55-64,5.1
+2016,January,Female,65 and over,1.5
+2016,April,Female,Total,18.4
+2016,April,Female,14-19,56.2
+2016,April,Female,20-24,35.7
+2016,April,Female,25-34,21.3
+2016,April,Female,35-44,16.9
+2016,April,Female,45-54,8.7
+2016,April,Female,55-64,6.4
+2016,April,Female,65 and over,6.4
+2016,July,Female,Total,16.9
+2016,July,Female,14-19,48.1
+2016,July,Female,20-24,31.1
+2016,July,Female,25-34,21.4
+2016,July,Female,35-44,14.5
+2016,July,Female,45-54,8.3
+2016,July,Female,55-64,5.2
+2016,July,Female,65 and over,5.3
+2016,October,Female,Total,17.5
+2016,October,Female,14-19,60.2
+2016,October,Female,20-24,35.8
+2016,October,Female,25-34,20.4
+2016,October,Female,35-44,12.3
+2016,October,Female,45-54,8.5
+2016,October,Female,55-64,5.9
+2016,October,Female,65 and over,4.1
+2017,January,Both Sexes,Total,12.7
+2017,January,Both Sexes,14-19,42.3
+2017,January,Both Sexes,20-24,28.7
+2017,January,Both Sexes,25-34,13.6
+2017,January,Both Sexes,35-44,9.3
+2017,January,Both Sexes,45-54,6.4
+2017,January,Both Sexes,55-64,5.1
+2017,January,Both Sexes,65 and over,5.2
+2017,April,Both Sexes,Total,12.2
+2017,April,Both Sexes,14-19,42.9
+2017,April,Both Sexes,20-24,26.4
+2017,April,Both Sexes,25-34,13.9
+2017,April,Both Sexes,35-44,9.1
+2017,April,Both Sexes,45-54,6.3
+2017,April,Both Sexes,55-64,4.8
+2017,April,Both Sexes,65 and over,3.5
+2017,July,Both Sexes,Total,11.3
+2017,July,Both Sexes,14-19,41.6
+2017,July,Both Sexes,20-24,24.4
+2017,July,Both Sexes,25-34,13.3
+2017,July,Both Sexes,35-44,7.7
+2017,July,Both Sexes,45-54,5.4
+2017,July,Both Sexes,55-64,4.3
+2017,July,Both Sexes,65 and over,3.4
+2017,October,Both Sexes,Total,10.4
+2017,October,Both Sexes,14-19,37.7
+2017,October,Both Sexes,20-24,22.0
+2017,October,Both Sexes,25-34,11.4
+2017,October,Both Sexes,35-44,7.9
+2017,October,Both Sexes,45-54,5.4
+2017,October,Both Sexes,55-64,3.8
+2017,October,Both Sexes,65 and over,2.6
+2017,January,Male,Total,9.0
+2017,January,Male,14-19,33.2
+2017,January,Male,20-24,23.0
+2017,January,Male,25-34,7.9
+2017,January,Male,35-44,5.7
+2017,January,Male,45-54,5.0
+2017,January,Male,55-64,4.0
+2017,January,Male,65 and over,4.6
+2017,April,Male,Total,9.5
+2017,April,Male,14-19,35.9
+2017,April,Male,20-24,23.5
+2017,April,Male,25-34,9.8
+2017,April,Male,35-44,5.5
+2017,April,Male,45-54,5.5
+2017,April,Male,55-64,4.0
+2017,April,Male,65 and over,3.5
+2017,July,Male,Total,8.0
+2017,July,Male,14-19,30.7
+2017,July,Male,20-24,20.8
+2017,July,Male,25-34,8.3
+2017,July,Male,35-44,4.5
+2017,July,Male,45-54,3.3
+2017,July,Male,55-64,4.0
+2017,July,Male,65 and over,2.8
+2017,October,Male,Total,7.2
+2017,October,Male,14-19,29.7
+2017,October,Male,20-24,16.9
+2017,October,Male,25-34,7.4
+2017,October,Male,35-44,4.8
+2017,October,Male,45-54,3.0
+2017,October,Male,55-64,3.0
+2017,October,Male,65 and over,3.0
+2017,January,Female,Total,17.0
+2017,January,Female,14-19,57.5
+2017,January,Female,20-24,35.2
+2017,January,Female,25-34,19.8
+2017,January,Female,35-44,13.0
+2017,January,Female,45-54,7.9
+2017,January,Female,55-64,6.5
+2017,January,Female,65 and over,6.6
+2017,April,Female,Total,15.3
+2017,April,Female,14-19,54.1
+2017,April,Female,20-24,29.7
+2017,April,Female,25-34,18.2
+2017,April,Female,35-44,12.8
+2017,April,Female,45-54,7.3
+2017,April,Female,55-64,6.0
+2017,April,Female,65 and over,3.4
+2017,July,Female,Total,15.2
+2017,July,Female,14-19,54.5
+2017,July,Female,20-24,28.8
+2017,July,Female,25-34,18.6
+2017,July,Female,35-44,11.0
+2017,July,Female,45-54,7.9
+2017,July,Female,55-64,4.8
+2017,July,Female,65 and over,4.5
+2017,October,Female,Total,14.1
+2017,October,Female,14-19,47.6
+2017,October,Female,20-24,28.7
+2017,October,Female,25-34,15.5
+2017,October,Female,35-44,11.2
+2017,October,Female,45-54,8.1
+2017,October,Female,55-64,4.9
+2017,October,Female,65 and over,1.8
+2018,January,Both Sexes,Total,9.6
+2018,January,Both Sexes,14-19,35.1
+2018,January,Both Sexes,20-24,21.6
+2018,January,Both Sexes,25-34,11.3
+2018,January,Both Sexes,35-44,7.0
+2018,January,Both Sexes,45-54,4.5
+2018,January,Both Sexes,55-64,3.3
+2018,January,Both Sexes,65 and over,3.0
+2018,April,Both Sexes,Total,9.8
+2018,April,Both Sexes,14-19,43.2
+2018,April,Both Sexes,20-24,22.4
+2018,April,Both Sexes,25-34,11.0
+2018,April,Both Sexes,35-44,6.8
+2018,April,Both Sexes,45-54,4.4
+2018,April,Both Sexes,55-64,4.0
+2018,April,Both Sexes,65 and over,2.1
+2018,July,Both Sexes,Total,8.4
+2018,July,Both Sexes,14-19,35.8
+2018,July,Both Sexes,20-24,19.4
+2018,July,Both Sexes,25-34,9.3
+2018,July,Both Sexes,35-44,5.9
+2018,July,Both Sexes,45-54,3.9
+2018,July,Both Sexes,55-64,2.8
+2018,July,Both Sexes,65 and over,2.5
+2018,October,Both Sexes,Total,8.7
+2018,October,Both Sexes,14-19,38.0
+2018,October,Both Sexes,20-24,22.2
+2018,October,Both Sexes,25-34,9.0
+2018,October,Both Sexes,35-44,5.6
+2018,October,Both Sexes,45-54,4.0
+2018,October,Both Sexes,55-64,2.9
+2018,October,Both Sexes,65 and over,2.8
+2018,January,Male,Total,7.4
+2018,January,Male,14-19,33.2
+2018,January,Male,20-24,17.7
+2018,January,Male,25-34,7.9
+2018,January,Male,35-44,5.3
+2018,January,Male,45-54,3.0
+2018,January,Male,55-64,2.4
+2018,January,Male,65 and over,3.2
+2018,April,Male,Total,7.3
+2018,April,Male,14-19,33.8
+2018,April,Male,20-24,18.2
+2018,April,Male,25-34,7.6
+2018,April,Male,35-44,4.2
+2018,April,Male,45-54,3.2
+2018,April,Male,55-64,3.6
+2018,April,Male,65 and over,2.6
+2018,July,Male,Total,5.8
+2018,July,Male,14-19,25.9
+2018,July,Male,20-24,15.5
+2018,July,Male,25-34,5.7
+2018,July,Male,35-44,3.6
+2018,July,Male,45-54,2.4
+2018,July,Male,55-64,1.8
+2018,July,Male,65 and over,2.6
+2018,October,Male,Total,6.4
+2018,October,Male,14-19,32.6
+2018,October,Male,20-24,19.4
+2018,October,Male,25-34,5.9
+2018,October,Male,35-44,3.6
+2018,October,Male,45-54,2.2
+2018,October,Male,55-64,2.3
+2018,October,Male,65 and over,2.2
+2018,January,Female,Total,12.2
+2018,January,Female,14-19,37.8
+2018,January,Female,20-24,26.2
+2018,January,Female,25-34,14.8
+2018,January,Female,35-44,8.8
+2018,January,Female,45-54,6.3
+2018,January,Female,55-64,4.6
+2018,January,Female,65 and over,2.5
+2018,April,Female,Total,12.7
+2018,April,Female,14-19,56.5
+2018,April,Female,20-24,27.8
+2018,April,Female,25-34,14.6
+2018,April,Female,35-44,9.5
+2018,April,Female,45-54,5.9
+2018,April,Female,55-64,4.5
+2018,April,Female,65 and over,1.3
+2018,July,Female,Total,11.5
+2018,July,Female,14-19,47.8
+2018,July,Female,20-24,24.2
+2018,July,Female,25-34,13.2
+2018,July,Female,35-44,8.3
+2018,July,Female,45-54,5.6
+2018,July,Female,55-64,4.3
+2018,July,Female,65 and over,2.3
+2018,October,Female,Total,11.3
+2018,October,Female,14-19,44.5
+2018,October,Female,20-24,25.5
+2018,October,Female,25-34,12.3
+2018,October,Female,35-44,7.6
+2018,October,Female,45-54,6.0
+2018,October,Female,55-64,3.8
+2018,October,Female,65 and over,4.0

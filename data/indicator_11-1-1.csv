@@ -1,0 +1,141 @@
+Year,Geographical Area,tenure,value,Value
+2018,Jamaica,Owned,43.9,
+2018,Jamaica,Leased,4.3,
+2018,Jamaica,Rented,15.4,
+2018,Jamaica,Rent Free,32.6,
+2018,Jamaica,Squatted,3.4,
+2018,Greater Kingston Metropolitan Area,Owned,45.5,
+2018,Greater Kingston Metropolitan Area,Leased,3.7,
+2018,Greater Kingston Metropolitan Area,Rented,21.6,
+2018,Greater Kingston Metropolitan Area,Rent Free,24.4,
+2018,Greater Kingston Metropolitan Area,Squatted,4.1,
+2018,Other Urban cenntre,Owned,38.6,
+2018,Other Urban cenntre,Leased,5.4,
+2018,Other Urban cenntre,Rented,17.8,
+2018,Other Urban cenntre,Rent Free,31.2,
+2018,Other Urban cenntre,Squatted,6.8,
+2018,Rural Areas,Owned,45.9,
+2018,Rural Areas,Leased,4.0,
+2018,Rural Areas,Rented,10.2,
+2018,Rural Areas,Rent Free,38.3,
+2018,Rural Areas,Squatted,1.2,
+2019,Jamaica,Owned,40.6,
+2019,Jamaica,Leased,4.5,
+2019,Jamaica,Rented,15.9,
+2019,Jamaica,Rent Free,35.6,
+2019,Jamaica,Squatted,3.3,
+2019,Greater Kingston Metropolitan Area,Owned,37.3,
+2019,Greater Kingston Metropolitan Area,Leased,3.3,
+2019,Greater Kingston Metropolitan Area,Rented,24.4,
+2019,Greater Kingston Metropolitan Area,Rent Free,31.1,
+2019,Greater Kingston Metropolitan Area,Squatted,4.0,
+2019,Other Urban cenntre,Owned,39.3,
+2019,Other Urban cenntre,Leased,6.9,
+2019,Other Urban cenntre,Rented,16.2,
+2019,Other Urban cenntre,Rent Free,31.7,
+2019,Other Urban cenntre,Squatted,5.9,
+2019,Rural Areas,Owned,43.5,
+2019,Rural Areas,Leased,4.2,
+2019,Rural Areas,Rented,9.7,
+2019,Rural Areas,Rent Free,40.7,
+2019,Rural Areas,Squatted,1.7,
+2013,Jamaica,Owned,,37.9
+2013,Jamaica,Leased,,6.6
+2013,Jamaica,Rented,,15.8
+2013,Jamaica,Rent Free,,34.1
+2013,Jamaica,Squatted,,5.3
+2014,Jamaica,Owned,,37.9
+2014,Jamaica,Leased,,6.6
+2014,Jamaica,Rented,,15.8
+2014,Jamaica,Rent Free,,34.1
+2014,Jamaica,Squatted,,5.3
+2015,Jamaica,Owned,,42.6
+2015,Jamaica,Leased,,5.3
+2015,Jamaica,Rented,,17.3
+2015,Jamaica,Rent Free,,31.0
+2015,Jamaica,Squatted,,3.5
+2016,Jamaica,Owned,,43.8
+2016,Jamaica,Leased,,5.7
+2016,Jamaica,Rented,,14.1
+2016,Jamaica,Rent Free,,31.2
+2016,Jamaica,Squatted,,4.4
+2017,Jamaica,Owned,,43.8
+2017,Jamaica,Leased,,4.6
+2017,Jamaica,Rented,,14.6
+2017,Jamaica,Rent Free,,32.5
+2017,Jamaica,Squatted,,4.1
+2013,Kingston Metropolitan Area,Owned,,44.0
+2013,Kingston Metropolitan Area,Leased,,3.6
+2013,Kingston Metropolitan Area,Rented,,24.0
+2013,Kingston Metropolitan Area,Rent Free,,24.2
+2013,Kingston Metropolitan Area,Squatted,,4.2
+2014,Kingston Metropolitan Area,Owned,,36.6
+2014,Kingston Metropolitan Area,Leased,,6.5
+2014,Kingston Metropolitan Area,Rented,,24.0
+2014,Kingston Metropolitan Area,Rent Free,,28.5
+2014,Kingston Metropolitan Area,Squatted,,4.4
+2015,Kingston Metropolitan Area,Owned,,38.2
+2015,Kingston Metropolitan Area,Leased,,7.3
+2015,Kingston Metropolitan Area,Rented,,25.5
+2015,Kingston Metropolitan Area,Rent Free,,25.3
+2015,Kingston Metropolitan Area,Squatted,,3.6
+2016,Kingston Metropolitan Area,Owned,,36.2
+2016,Kingston Metropolitan Area,Leased,,6.6
+2016,Kingston Metropolitan Area,Rented,,19.2
+2016,Kingston Metropolitan Area,Rent Free,,33.1
+2016,Kingston Metropolitan Area,Squatted,,4.5
+2017,Kingston Metropolitan Area,Owned,,42.7
+2017,Kingston Metropolitan Area,Leased,,4.2
+2017,Kingston Metropolitan Area,Rented,,20.4
+2017,Kingston Metropolitan Area,Rent Free,,26.6
+2017,Kingston Metropolitan Area,Squatted,,5.8
+2013,Other Towns,Owned,,43.1
+2013,Other Towns,Leased,,7.8
+2013,Other Towns,Rented,,17.4
+2013,Other Towns,Rent Free,,25.6
+2013,Other Towns,Squatted,,5.9
+2014,Other Towns,Owned,,33.1
+2014,Other Towns,Leased,,7.2
+2014,Other Towns,Rented,,19.7
+2014,Other Towns,Rent Free,,31.8
+2014,Other Towns,Squatted,,8.3
+2015,Other Towns,Owned,,44.0
+2015,Other Towns,Leased,,4.9
+2015,Other Towns,Rented,,24.0
+2015,Other Towns,Rent Free,,22.7
+2015,Other Towns,Squatted,,4.2
+2016,Other Towns,Owned,,41.3
+2016,Other Towns,Leased,,6.2
+2016,Other Towns,Rented,,17.9
+2016,Other Towns,Rent Free,,25.6
+2016,Other Towns,Squatted,,8.6
+2017,Other Towns,Owned,,40.5
+2017,Other Towns,Leased,,5.8
+2017,Other Towns,Rented,,18.1
+2017,Other Towns,Rent Free,,27.7
+2017,Other Towns,Squatted,,7.3
+2013,Rural Areas,Owned,,48.5
+2013,Rural Areas,Leased,,8.1
+2013,Rural Areas,Rented,,7.4
+2013,Rural Areas,Rent Free,,33.0
+2013,Rural Areas,Squatted,,2.1
+2014,Rural Areas,Owned,,40.9
+2014,Rural Areas,Leased,,6.4
+2014,Rural Areas,Rented,,8.3
+2014,Rural Areas,Rent Free,,39.1
+2014,Rural Areas,Squatted,,4.6
+2015,Rural Areas,Owned,,45.0
+2015,Rural Areas,Leased,,4.2
+2015,Rural Areas,Rented,,8.9
+2015,Rural Areas,Rent Free,,38.4
+2015,Rural Areas,Squatted,,3.1
+2016,Rural Areas,Owned,,49.6
+2016,Rural Areas,Leased,,4.9
+2016,Rural Areas,Rented,,9.2
+2016,Rural Areas,Rent Free,,32.7
+2016,Rural Areas,Squatted,,2.3
+2017,Rural Areas,Owned,,46.2
+2017,Rural Areas,Leased,,4.1
+2017,Rural Areas,Rented,,9.0
+2017,Rural Areas,Rent Free,,39.0
+2017,Rural Areas,Squatted,,1.2

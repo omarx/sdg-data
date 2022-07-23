@@ -1,0 +1,73 @@
+Year,Vaccination Indicator,Time Vaccinated,Source of Vaccination Record,Value
+2011,BCG,Vaccinated at any time before the survey,Vaccination card,77.8
+2011,Polio 1,Vaccinated at any time before the survey,Vaccination card,75.9
+2011,Polio 2,Vaccinated at any time before the survey,Vaccination card,75.9
+2011,Polio 3,Vaccinated at any time before the survey,Vaccination card,76.2
+2011,DPT 1,Vaccinated at any time before the survey,Vaccination card,77.8
+2011,DPT 2,Vaccinated at any time before the survey,Vaccination card,77.8
+2011,DPT 3,Vaccinated at any time before the survey,Vaccination card,77.8
+2011,Measles,Vaccinated at any time before the survey,Vaccination card,76.3
+2011,Hep B 1,Vaccinated at any time before the survey,Vaccination card,78.7
+2011,Hep B 2,Vaccinated at any time before the survey,Vaccination card,78.5
+2011,Hep B 3,Vaccinated at any time before the survey,Vaccination card,78.5
+2011,Hib 1,Vaccinated at any time before the survey,Vaccination card,74.7
+2011,Hib 2,Vaccinated at any time before the survey,Vaccination card,74.2
+2011,Hib 3,Vaccinated at any time before the survey,Vaccination card,74.2
+2011,All vaccinations,Vaccinated at any time before the survey,Vaccination card,73.0
+2011,All vaccinations excluding HIB,Vaccinated at any time before the survey,Vaccination card,74.9
+2011,No vaccinations,Vaccinated at any time before the survey,Vaccination card,0.0
+2011,Number of children age 18-29 months,Vaccinated at any time before the survey,Vaccination card,320
+2011,BCG,Vaccinated at any time before the survey,Mother's report,21.7
+2011,Polio 1,Vaccinated at any time before the survey,Mother's report,21.1
+2011,Polio 2,Vaccinated at any time before the survey,Mother's report,21.1
+2011,Polio 3,Vaccinated at any time before the survey,Mother's report,15.9
+2011,DPT 1,Vaccinated at any time before the survey,Mother's report,19.9
+2011,DPT 2,Vaccinated at any time before the survey,Mother's report,19.5
+2011,DPT 3,Vaccinated at any time before the survey,Mother's report,13.7
+2011,Measles,Vaccinated at any time before the survey,Mother's report,17.8
+2011,Hep B 1,Vaccinated at any time before the survey,Mother's report,15.2
+2011,Hep B 2,Vaccinated at any time before the survey,Mother's report,12.6
+2011,Hep B 3,Vaccinated at any time before the survey,Mother's report,9.9
+2011,Hib 1,Vaccinated at any time before the survey,Mother's report,0.0
+2011,Hib 2,Vaccinated at any time before the survey,Mother's report,0.0
+2011,Hib 3,Vaccinated at any time before the survey,Mother's report,0.0
+2011,All vaccinations,Vaccinated at any time before the survey,Mother's report,0.0
+2011,All vaccinations excluding HIB,Vaccinated at any time before the survey,Mother's report,11.1
+2011,No vaccinations,Vaccinated at any time before the survey,Mother's report,0.5
+2011,Number of children age 18-29 months,Vaccinated at any time before the survey,Mother's report,320
+2011,BCG,Vaccinated at any time before the survey,Either,99.5
+2011,Polio 1,Vaccinated at any time before the survey,Either,97.0
+2011,Polio 2,Vaccinated at any time before the survey,Either,97.0
+2011,Polio 3,Vaccinated at any time before the survey,Either,92.0
+2011,DPT 1,Vaccinated at any time before the survey,Either,97.7
+2011,DPT 2,Vaccinated at any time before the survey,Either,97.3
+2011,DPT 3,Vaccinated at any time before the survey,Either,91.5
+2011,Measles,Vaccinated at any time before the survey,Either,94.1
+2011,Hep B 1,Vaccinated at any time before the survey,Either,93.9
+2011,Hep B 2,Vaccinated at any time before the survey,Either,91.1
+2011,Hep B 3,Vaccinated at any time before the survey,Either,88.4
+2011,Hib 1,Vaccinated at any time before the survey,Either,74.7
+2011,Hib 2,Vaccinated at any time before the survey,Either,74.2
+2011,Hib 3,Vaccinated at any time before the survey,Either,74.2
+2011,All vaccinations,Vaccinated at any time before the survey,Either,73.0
+2011,All vaccinations excluding HIB,Vaccinated at any time before the survey,Either,86.1
+2011,No vaccinations,Vaccinated at any time before the survey,Either,0.5
+2011,Number of children age 18-29 months,Vaccinated at any time before the survey,Either,320
+2011,BCG,Vaccinated by 12 months of age,,99.5
+2011,Polio 1,Vaccinated by 12 months of age,,96.6
+2011,Polio 2,Vaccinated by 12 months of age,,96.3
+2011,Polio 3,Vaccinated by 12 months of age,,91.1
+2011,DPT 1,Vaccinated by 12 months of age,,96.8
+2011,DPT 2,Vaccinated by 12 months of age,,96.4
+2011,DPT 3,Vaccinated by 12 months of age,,89.9
+2011,Measles,Vaccinated by 12 months of age,,91.7
+2011,Hep B 1,Vaccinated by 12 months of age,,93.0
+2011,Hep B 2,Vaccinated by 12 months of age,,90.3
+2011,Hep B 3,Vaccinated by 12 months of age,,84.5
+2011,Hib 1,Vaccinated by 12 months of age,,74.2
+2011,Hib 2,Vaccinated by 12 months of age,,73.9
+2011,Hib 3,Vaccinated by 12 months of age,,71.4
+2011,All vaccinations,Vaccinated by 12 months of age,,67.6
+2011,All vaccinations excluding HIB,Vaccinated by 12 months of age,,79.8
+2011,No vaccinations,Vaccinated by 12 months of age,,0.5
+2011,Number of children age 18-29 months,Vaccinated by 12 months of age,,320

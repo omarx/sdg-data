@@ -1,0 +1,65 @@
+Year,Event,Units,Value
+2002,May/June Flood Rains,Persons Affected Per 100.000 population,50021
+2002,May/June Flood Rains,Persons Dead per 100.000 population,0.344
+2002,May/June Flood Rains,Persons Injured per 100.000 population,0
+2002,May/June Flood Rains,Persons Missing per 100.000 population,0
+2004,Hurricane Ivan,Persons Affected Per 100.000 population,14009
+2004,Hurricane Ivan,Persons Dead per 100.000 population,0.644
+2004,Hurricane Ivan,Persons Injured per 100.000 population,0
+2004,Hurricane Ivan,Persons Missing per 100.000 population,0
+2005,Hurricane Dennis and Emily,Persons Affected Per 100.000 population,12521
+2005,Hurricane Dennis and Emily,Persons Dead per 100.000 population,0.264
+2005,Hurricane Dennis and Emily,Persons Injured per 100.000 population,0
+2005,Hurricane Dennis and Emily,Persons Missing per 100.000 population,0
+2005,Hurricane Wilma,Persons Affected Per 100.000 population,13669
+2005,Hurricane Wilma,Persons Dead per 100.000 population,0.113
+2005,Hurricane Wilma,Persons Injured per 100.000 population,0
+2005,Hurricane Wilma,Persons Missing per 100.000 population,0
+2007,Hurricane Dean,Persons Affected Per 100.000 population,6744
+2007,Hurricane Dean,Persons Dead per 100.000 population,0.225
+2007,Hurricane Dean,Persons Injured per 100.000 population,0
+2007,Hurricane Dean,Persons Missing per 100.000 population,0
+2008,Tropical Storm Gustav,Persons Affected Per 100.000 population,16842
+2008,Tropical Storm Gustav,Persons Dead per 100.000 population,0.374
+2008,Tropical Storm Gustav,Persons Injured per 100.000 population,0
+2008,Tropical Storm Gustav,Persons Missing per 100.000 population,0
+2010,Tropical Storm Nicole,Persons Affected Per 100.000 population,18873
+2010,Tropical Storm Nicole,Persons Dead per 100.000 population,0.52
+2010,Tropical Storm Nicole,Persons Injured per 100.000 population,0
+2010,Tropical Storm Nicole,Persons Missing per 100.000 population,0.074
+2012,Hurricane Sandy,Persons Affected Per 100.000 population,25150
+2012,Hurricane Sandy,Persons Dead per 100.000 population,0.074
+2012,Hurricane Sandy,Persons Injured per 100.000 population,0
+2012,Hurricane Sandy,Persons Missing per 100.000 population,0
+2017,March to June Rains,Persons Affected Per 100.000 population,90613
+2017,March to June Rains,Persons Dead per 100.000 population,0.037
+2017,March to June Rains,Persons Injured per 100.000 population,0
+2017,March to June Rains,Persons Missing per 100.000 population,0
+1999/00,Drought,Cost ($JB),0.73
+2001,Hurricane Michelle,Cost ($JB),2.52
+2001,Hurricane Michelle,Impact (% GDP),0.8
+2002,May/June Flood Rains,Cost ($JB),2.47
+2002,May/June Flood Rains,Impact (% GDP),0.7
+2004,Hurricane Charley,Cost ($JB),0.44
+2004,Hurricane Charley,Impact (% GDP),0.02
+2004,Hurricane Ivan,Cost ($JB),36.9
+2004,Hurricane Ivan,Impact (% GDP),8
+2005,Hurricanes Dennis and Emily,Cost ($JB),5.98
+2005,Hurricane Dennis and Emily,Impact (% GDP),1.2
+2005,Hurricane Wilma,Cost ($JB),3.6
+2005,Hurricane Wilma,Impact (% GDP),0.7
+2005,Drought,Cost ($JB),0.52
+2007,Hurricane Dean,Cost ($JB),23.8
+2007,Hurricane Dean,Impact (% GDP),3.4
+2008,Tropical Storm Gustav,Cost ($JB),15.5
+2008,Tropical Storm Gustav,Impact (% GDP),2.0
+2008,Drought,Cost ($JB),0.04
+2010,Tropical Storm Nicole,Cost ($JB),20.6
+2010,Tropical Storm Nicole,Impact (% GDP),1.9
+2012,Hurricane Sandy,Cost ($JB),9.9
+2012,Hurricane Sandy,Impact (% GDP),0.8
+2014,Drought,Cost ($JB),0.9
+2017,May Flood Rains,Cost ($JB),4.05
+2017,May Flood Rains,Impact (% GDP),0.2
+1999-2017,Total,Cost ($JB),127.95
+1999-2017,Total,Impact (% GDP),19.7

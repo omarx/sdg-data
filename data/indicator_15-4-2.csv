@@ -1,0 +1,145 @@
+Year,Kapos Mountain Class,IPCC Class,Unit,Value
+2000,k1,Forest,(%),0.00
+2000,k1,Cropland,(%),0.00
+2000,k1,Grassland,(%),0.00
+2000,k1,Wetland,(%),0.00
+2000,k1,Settlement,(%),0.00
+2000,k1,Other Land,(%),0.00
+2000,k1,MGCI,(%),0.00
+2000,,MGCI All,(%),98.81
+2000,k2,Forest,(%),0.00
+2000,k2,Cropland,(%),0.00
+2000,k2,Grassland,(%),0.00
+2000,k2,Wetland,(%),0.00
+2000,k2,Settlement,(%),0.00
+2000,k2,Other Land,(%),0.00
+2000,k2,MGCI,(%),0.00
+2000,k3,Forest,(%),0.00
+2000,k3,Cropland,(%),0.00
+2000,k3,Grassland,(%),0.00
+2000,k3,Wetland,(%),0.00
+2000,k3,Settlement,(%),0.00
+2000,k3,Other Land,(%),0.00
+2000,k3,MGCI,(%),0.00
+2000,k4,Forest,(%),94.34
+2000,k4,Cropland,(%),5.66
+2000,k4,Grassland,(%),0.00
+2000,k4,Wetland,(%),0.00
+2000,k4,Settlement,(%),0.00
+2000,k4,Other Land,(%),0.00
+2000,k4,MGCI,(%),100.00
+2000,k5,Forest,(%),75.70
+2000,k5,Cropland,(%),24.16
+2000,k5,Grassland,(%),0.00
+2000,k5,Wetland,(%),0.00
+2000,k5,Settlement,(%),0.13
+2000,k5,Other Land,(%),0.01
+2000,k5,MGC,(%),99.87
+2010,k1,Forest,(%),0.00
+2010,k1,Cropland,(%),0.00
+2010,k1,Grassland,(%),0.00
+2010,k1,Wetland,(%),0.00
+2010,k1,Settlement,(%),0.00
+2010,k1,Other Land,(%),0.00
+2010,k1,MGCI,(%),0.00
+2010,,MGCI All,(%),97.75
+2010,k2,Forest,(%),0.00
+2010,k2,Cropland,(%),0.00
+2010,k2,Grassland,(%),0.00
+2010,k2,Wetland,(%),0.00
+2010,k2,Settlement,(%),0.00
+2010,k2,Other Land,(%),0.00
+2010,k2,MGCI,(%),0.00
+2010,k3,Forest,(%),0.00
+2010,k3,Cropland,(%),0.00
+2010,k3,Grassland,(%),0.00
+2010,k3,Wetland,(%),0.00
+2010,k3,Settlement,(%),0.00
+2010,k3,Other Land,(%),0.00
+2010,k3,MGCI,(%),0.00
+2010,k4,Forest,(%),95.68
+2010,k4,Cropland,(%),4.32
+2010,k4,Grassland,(%),0.00
+2010,k4,Wetland,(%),0.00
+2010,k4,Settlement,(%),0.00
+2010,k4,Other Land,(%),0.00
+2010,k4,MGCI,(%),100.00
+2010,k5,Forest,(%),75.24
+2010,k5,Cropland,(%),23.96
+2010,k5,Grassland,(%),0.00
+2010,k5,Wetland,(%),0.00
+2010,k5,Settlement,(%),0.76
+2010,k5,Other Land,(%),0.04
+2010,k5,MGC,(%),99.21
+2015,k1,Forest,(%),0.00
+2015,k1,Cropland,(%),0.00
+2015,k1,Grassland,(%),0.00
+2015,k1,Wetland,(%),0.00
+2015,k1,Settlement,(%),0.00
+2015,k1,Other Land,(%),0.00
+2015,k1,MGCI,(%),0.00
+2015,,MGCI All,(%),97.21
+2015,k2,Forest,(%),0.00
+2015,k2,Cropland,(%),0.00
+2015,k2,Grassland,(%),0.00
+2015,k2,Wetland,(%),0.00
+2015,k2,Settlement,(%),0.00
+2015,k2,Other Land,(%),0.00
+2015,k2,MGCI,(%),0.00
+2015,k3,Forest,(%),0.00
+2015,k3,Cropland,(%),0.00
+2015,k3,Grassland,(%),0.00
+2015,k3,Wetland,(%),0.00
+2015,k3,Settlement,(%),0.00
+2015,k3,Other Land,(%),0.00
+2015,k3,MGCI,(%),0.00
+2015,k4,Forest,(%),96.34
+2015,k4,Cropland,(%),3.36
+2015,k4,Grassland,(%),0.00
+2015,k4,Wetland,(%),0.00
+2015,k4,Settlement,(%),0.00
+2015,k4,Other Land,(%),0.00
+2015,k4,MGCI,(%),100.00
+2015,k5,Forest,(%),75.01
+2015,k5,Cropland,(%),23.86
+2015,k5,Grassland,(%),0.00
+2015,k5,Wetland,(%),0.00
+2015,k5,Settlement,(%),1.08
+2015,k5,Other Land,(%),0.05
+2015,k5,MGC,(%),98.87
+2018,k1,Forest,(%),0.00
+2018,k1,Cropland,(%),0.00
+2018,k1,Grassland,(%),0.00
+2018,k1,Wetland,(%),0.00
+2018,k1,Settlement,(%),0.00
+2018,k1,Other Land,(%),0.00
+2018,k1,MGCI,(%),0.00
+2018,,MGCI All,(%),96.89
+2018,k2,Forest,(%),0.00
+2018,k2,Cropland,(%),0.00
+2018,k2,Grassland,(%),0.00
+2018,k2,Wetland,(%),0.00
+2018,k2,Settlement,(%),0.00
+2018,k2,Other Land,(%),0.00
+2018,k2,MGCI,(%),0.00
+2018,k3,Forest,(%),0.00
+2018,k3,Cropland,(%),0.00
+2018,k3,Grassland,(%),0.00
+2018,k3,Wetland,(%),0.00
+2018,k3,Settlement,(%),0.00
+2018,k3,Other Land,(%),0.00
+2018,k3,MGCI,(%),0.00
+2018,k4,Forest,(%),96.74
+2018,k4,Cropland,(%),3.26
+2018,k4,Grassland,(%),0.00
+2018,k4,Wetland,(%),0.00
+2018,k4,Settlement,(%),0.00
+2018,k4,Other Land,(%),0.00
+2018,k4,MGCI,(%),100.00
+2018,k5,Forest,(%),74.87
+2018,k5,Cropland,(%),23.80
+2018,k5,Grassland,(%),0.00
+2018,k5,Wetland,(%),0.00
+2018,k5,Settlement,(%),1.27
+2018,k5,Other Land,(%),0.06
+2018,k5,MGC,(%),98.68
