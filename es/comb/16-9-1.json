@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2020,2016],"House of Parliament/Local Government Representative":["Lower House",null],"Sex":["Total Number of Seats",null],"Geographical Area":[null,"Jamaica"],"Value":[63.0,98.2]},"edges":{"From":["House of Parliament/Local Government Representative"],"To":["Sex"]}}

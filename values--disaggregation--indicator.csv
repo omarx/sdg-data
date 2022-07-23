@@ -1,9 +1,12 @@
 Value,Disaggregation combinations using this value,Number of indicators
 GDP (Current),1,1
+Last Census,1,1
 Mortality rate attributed to unintentional poisoning,1,1
 Proportion of respondents covered by health insurance,8,1
 Proportion of the rural population that live within 2km of a Highway,1,1
 Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,10,1
+Registration of Births,1,1
+Registration of Deaths,1,1
 Remittance as a  proportion of GDP,12,1
 Remittance Inflows,1,1
 Suicide rate,16,1

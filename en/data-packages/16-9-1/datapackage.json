@@ -12,8 +12,41 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "House of Parliament/Local Government Representative",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lower House",
+                ""
+              ]
+            },
+            "title": "House of Parliament/Local Government Representative"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total Number of Seats",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Geographical Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Jamaica",
+                ""
+              ]
+            },
+            "title": "Geographical Area"
           },
           {
             "name": "Value",

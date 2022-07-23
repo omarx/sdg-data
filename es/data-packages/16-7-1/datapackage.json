@@ -12,8 +12,36 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "House of Parliament/Local Government Representative",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Upper House",
+                "Lower House",
+                "Mayors",
+                "Councillors",
+                ""
+              ]
+            },
+            "title": "House of Parliament/Local Government Representative"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Total Number of Seats",
+                "Female",
+                "Females",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Value",

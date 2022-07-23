@@ -1395,6 +1395,67 @@
       "title": "Proportion of individuals who own a mobile telephone, by sex"
     },
     {
+      "path": "16-1-4/data.csv",
+      "name": "16-1-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Jamaica",
+                "Urban Area",
+                "Rural Area",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Safety at time of day",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Daytime",
+                "Nighttime",
+                ""
+              ]
+            },
+            "title": "Safety at time of day"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of population that feel safe walking alone around the area they live"
+    },
+    {
       "path": "3-5-1/data.csv",
       "name": "3-5-1",
       "profile": "tabular-data-resource",
@@ -2247,6 +2308,100 @@
       "title": "Alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol"
     },
     {
+      "path": "16-2-1/data.csv",
+      "name": "16-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Geographical Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Jamaica",
+                "Kingston Metropolitan Area",
+                "Other Towns",
+                "Rural Areas",
+                ""
+              ]
+            },
+            "title": "Geographical Area"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Age Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Psychological Aggression",
+                "Any Physical Punishment",
+                "Severe Physical Punishment",
+                "2-4 years",
+                "5-9 years",
+                "10-14 years",
+                ""
+              ]
+            },
+            "title": "Age Group"
+          },
+          {
+            "name": "Wealth Quintile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Poorest",
+                "Second",
+                "Middle",
+                "Fourth",
+                "Richest",
+                ""
+              ]
+            },
+            "title": "Wealth Quintile"
+          },
+          {
+            "name": "Type of Punishment",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Psychological Aggression",
+                "Any Physical Punishment",
+                "Severe Physical Punishment",
+                ""
+              ]
+            },
+            "title": "Type of Punishment"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of children aged 1–17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month"
+    },
+    {
       "path": "3-3-3/data.csv",
       "name": "3-3-3",
       "profile": "tabular-data-resource",
@@ -2465,6 +2620,58 @@
         ]
       },
       "title": "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources"
+    },
+    {
+      "path": "16-7-1/data.csv",
+      "name": "16-7-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "House of Parliament/Local Government Representative",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Upper House",
+                "Lower House",
+                "Mayors",
+                "Councillors",
+                ""
+              ]
+            },
+            "title": "House of Parliament/Local Government Representative"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Total Number of Seats",
+                "Female",
+                "Females",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportions of positions in national and local institutions, including (a) the legislatures; (b) the public service; and (c) the judiciary, compared to national distributions, by sex, age, persons with disabilities and population groups"
     },
     {
       "path": "14-2-1/data.csv",
@@ -2997,6 +3204,63 @@
         ]
       },
       "title": "Annual growth rate of real GDP per employed person"
+    },
+    {
+      "path": "16-9-1/data.csv",
+      "name": "16-9-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "House of Parliament/Local Government Representative",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lower House",
+                ""
+              ]
+            },
+            "title": "House of Parliament/Local Government Representative"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total Number of Seats",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Geographical Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Jamaica",
+                ""
+              ]
+            },
+            "title": "Geographical Area"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age"
     },
     {
       "path": "15-5-1/data.csv",
@@ -3752,6 +4016,89 @@
       "title": "Change in the extent of water-related ecosystems over time"
     },
     {
+      "path": "16-5-1/data.csv",
+      "name": "16-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Geographical Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Jamaica",
+                ""
+              ]
+            },
+            "title": "Geographical Area"
+          },
+          {
+            "name": "Proportion of bribery Incident",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion asked to pay a bribe to a Government Offical",
+                ""
+              ]
+            },
+            "title": "Proportion of bribery Incident"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Per cent",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Type of bribe",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Asked to pay a bribe to a Government Offical",
+                "Experienced police corruption",
+                ""
+              ]
+            },
+            "title": "Type of bribe"
+          },
+          {
+            "name": "Status of Corruption Charges",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of corruption charges commenced",
+                "Number of corruption charges disposed",
+                "Number of charges pending",
+                "Number of convictions",
+                ""
+              ]
+            },
+            "title": "Status of Corruption Charges"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months"
+    },
+    {
       "path": "4-5-1/data.csv",
       "name": "4-5-1",
       "profile": "tabular-data-resource",
@@ -4302,6 +4649,67 @@
       "title": "Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)"
     },
     {
+      "path": "16-3-1/data.csv",
+      "name": "16-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Geographical Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Jamaica",
+                ""
+              ]
+            },
+            "title": "Geographical Area"
+          },
+          {
+            "name": "Type of Crime",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Motorized Vehicle or Parts Theft",
+                "Theft of object from inside the vehicle",
+                "Burglary",
+                "Theft with violence (Robbery)",
+                "Theft without violence (Larceny)",
+                "Fraud (Bank and Consumer)",
+                "Assault and Injuries",
+                "Threats or Extortion",
+                "Fraud/Extortion",
+                "Theft",
+                "Praedial Larceny",
+                "Vandalism",
+                "Robbery",
+                "Threats",
+                "Physical Assault",
+                "Sexual Assault",
+                ""
+              ]
+            },
+            "title": "Type of Crime"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms"
+    },
+    {
       "path": "9-1-1/data.csv",
       "name": "9-1-1",
       "profile": "tabular-data-resource",
@@ -4759,6 +5167,55 @@
         ]
       },
       "title": "Ratio of land consumption rate to population growth rate"
+    },
+    {
+      "path": "16-3-2/data.csv",
+      "name": "16-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Type of Detainee",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Unsentenced Adult",
+                "Unsentenced Juvenile",
+                "Unsentenced Detainees",
+                ""
+              ]
+            },
+            "title": "Type of Detainee"
+          },
+          {
+            "name": "Geographical Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Per cent",
+                "Jamaica",
+                ""
+              ]
+            },
+            "title": "Geographical Area"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Unsentenced detainees as a proportion of overall prison population"
     },
     {
       "path": "9-c-1/data.csv",
@@ -5588,6 +6045,54 @@
         ]
       },
       "title": "Proportion of domestic budget funded by domestic taxes"
+    },
+    {
+      "path": "17-19-2/data.csv",
+      "name": "17-19-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Geographic Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Jamaica",
+                ""
+              ]
+            },
+            "title": "Geographic Region"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Last Census",
+                "Registration of Births",
+                "Registration of Deaths",
+                ""
+              ]
+            },
+            "title": "Indicator"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of countries that (a) have conducted at least one population and housing census in the last 10 years; and (b) have achieved 100 per cent birth registration and 80 per cent death registration"
     },
     {
       "path": "1-2-1/data.csv",
@@ -7972,54 +8477,6 @@
       "title": "Conflict-related deaths per 100,000 population, by sex, age and cause"
     },
     {
-      "path": "16-1-4/data.csv",
-      "name": "16-1-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of population that feel safe walking alone around the area they live"
-    },
-    {
-      "path": "16-2-1/data.csv",
-      "name": "16-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of children aged 1–17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month"
-    },
-    {
       "path": "16-2-2/data.csv",
       "name": "16-2-2",
       "profile": "tabular-data-resource",
@@ -8068,54 +8525,6 @@
       "title": "Proportion of young women and men aged 18–29 years who experienced sexual violence by age 18"
     },
     {
-      "path": "16-3-1/data.csv",
-      "name": "16-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms"
-    },
-    {
-      "path": "16-3-2/data.csv",
-      "name": "16-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Unsentenced detainees as a proportion of overall prison population"
-    },
-    {
       "path": "16-4-1/data.csv",
       "name": "16-4-1",
       "profile": "tabular-data-resource",
@@ -8162,30 +8571,6 @@
         ]
       },
       "title": "Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments"
-    },
-    {
-      "path": "16-5-1/data.csv",
-      "name": "16-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months"
     },
     {
       "path": "16-5-2/data.csv",
@@ -8260,30 +8645,6 @@
       "title": "Proportion of population satisfied with their last experience of public services"
     },
     {
-      "path": "16-7-1/data.csv",
-      "name": "16-7-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportions of positions in national and local institutions, including (a) the legislatures; (b) the public service; and (c) the judiciary, compared to national distributions, by sex, age, persons with disabilities and population groups"
-    },
-    {
       "path": "16-7-2/data.csv",
       "name": "16-7-2",
       "profile": "tabular-data-resource",
@@ -8306,30 +8667,6 @@
         ]
       },
       "title": "Proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group"
-    },
-    {
-      "path": "16-9-1/data.csv",
-      "name": "16-9-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age"
     },
     {
       "path": "16-a-1/data.csv",
@@ -8762,30 +9099,6 @@
         ]
       },
       "title": "Dollar value of all resources made available to strengthen statistical capacity in developing countries"
-    },
-    {
-      "path": "17-19-2/data.csv",
-      "name": "17-19-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of countries that (a) have conducted at least one population and housing census in the last 10 years; and (b) have achieved 100 per cent birth registration and 80 per cent death registration"
     },
     {
       "path": "8-4-1/data.csv",

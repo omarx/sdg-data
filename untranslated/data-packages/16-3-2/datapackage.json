@@ -12,7 +12,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Type of Detainee",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Unsentenced Adult",
+                "Unsentenced Juvenile",
+                "Unsentenced Detainees",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geographical Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Per cent",
+                "Jamaica",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

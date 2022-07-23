@@ -12,7 +12,42 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Geographical Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Jamaica",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type of Crime",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Motorized Vehicle or Parts Theft",
+                "Theft of object from inside the vehicle",
+                "Burglary",
+                "Theft with violence (Robbery)",
+                "Theft without violence (Larceny)",
+                "Fraud (Bank and Consumer)",
+                "Assault and Injuries",
+                "Threats or Extortion",
+                "Fraud/Extortion",
+                "Theft",
+                "Praedial Larceny",
+                "Vandalism",
+                "Robbery",
+                "Threats",
+                "Physical Assault",
+                "Sexual Assault",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

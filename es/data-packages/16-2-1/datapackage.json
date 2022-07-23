@@ -12,8 +12,78 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Geographical Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Jamaica",
+                "Kingston Metropolitan Area",
+                "Other Towns",
+                "Rural Areas",
+                ""
+              ]
+            },
+            "title": "Geographical Area"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Age Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Psychological Aggression",
+                "Any Physical Punishment",
+                "Severe Physical Punishment",
+                "2-4 years",
+                "5-9 years",
+                "10-14 years",
+                ""
+              ]
+            },
+            "title": "Age Group"
+          },
+          {
+            "name": "Wealth Quintile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Poorest",
+                "Second",
+                "Middle",
+                "Fourth",
+                "Richest",
+                ""
+              ]
+            },
+            "title": "Wealth Quintile"
+          },
+          {
+            "name": "Type of Punishment",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Psychological Aggression",
+                "Any Physical Punishment",
+                "Severe Physical Punishment",
+                ""
+              ]
+            },
+            "title": "Type of Punishment"
           },
           {
             "name": "Value",

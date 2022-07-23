@@ -12,7 +12,72 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Geographical Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Jamaica",
+                "Kingston Metropolitan Area",
+                "Other Towns",
+                "Rural Areas",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Psychological Aggression",
+                "Any Physical Punishment",
+                "Severe Physical Punishment",
+                "2-4 years",
+                "5-9 years",
+                "10-14 years",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Wealth Quintile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Poorest",
+                "Second",
+                "Middle",
+                "Fourth",
+                "Richest",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type of Punishment",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Psychological Aggression",
+                "Any Physical Punishment",
+                "Severe Physical Punishment",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

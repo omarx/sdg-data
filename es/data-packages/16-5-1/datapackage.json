@@ -12,8 +12,67 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Geographical Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Jamaica",
+                ""
+              ]
+            },
+            "title": "Geographical Area"
+          },
+          {
+            "name": "Proportion of bribery Incident",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion asked to pay a bribe to a Government Offical",
+                ""
+              ]
+            },
+            "title": "Proportion of bribery Incident"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Per cent",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Type of bribe",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Asked to pay a bribe to a Government Offical",
+                "Experienced police corruption",
+                ""
+              ]
+            },
+            "title": "Type of bribe"
+          },
+          {
+            "name": "Status of Corruption Charges",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of corruption charges commenced",
+                "Number of corruption charges disposed",
+                "Number of charges pending",
+                "Number of convictions",
+                ""
+              ]
+            },
+            "title": "Status of Corruption Charges"
           },
           {
             "name": "Value",

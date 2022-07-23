@@ -12,7 +12,41 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Jamaica",
+                "Urban Area",
+                "Rural Area",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Safety at time of day",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Daytime",
+                "Nighttime",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
