@@ -22,6 +22,8 @@
               "enum": [
                 "Population covered by PATH",
                 "Persons Registered with the National Insurance Scheme",
+                "Registered with Jamaica Drugs for the Elderly Programme",
+                "Registered with the National Health Fund",
                 "Outdoor Persons Registered on Poor Relief Programme",
                 "Indoor Persons Registered on Poor Relief Programme",
                 ""
@@ -35,7 +37,7 @@
             "constraints": {
               "enum": [
                 "Jamaica",
-                "KMA",
+                "GKMA",
                 "OUC",
                 "Rural",
                 "Kingston & St Andrew",
@@ -54,6 +56,7 @@
                 "Clarendon",
                 "St Catherine",
                 "St Mary Total",
+                "KMA",
                 ""
               ]
             },
@@ -66,7 +69,6 @@
               "enum": [
                 "Children",
                 "Adult",
-                "Persons with disabilities",
                 "Elderly",
                 "Pregnant and Lactating Women",
                 "Male",
@@ -74,6 +76,7 @@
                 "Total",
                 "Number",
                 "per 100.000 population",
+                "Persons with disabilities",
                 ""
               ]
             },
@@ -89,11 +92,14 @@
                 "587",
                 "204",
                 "939",
+                "per 100",
                 "per 100.000 population",
                 "242",
                 "524",
                 "St Mary",
                 "St Ann",
+                "224",
+                "495",
                 "19",
                 "35",
                 "98",
@@ -104,7 +110,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]

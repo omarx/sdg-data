@@ -12,8 +12,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
+          },
+          {
+            "name": "Educational Level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Pre-Primary",
+                "Primary",
+                "Secondary",
+                "Pre Primary (Public Schools only)",
+                ""
+              ]
+            },
+            "title": "Educational Level"
           },
           {
             "name": "Value",

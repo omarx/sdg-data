@@ -12,8 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of the rural population that live within 2km of a Highway",
+                ""
+              ]
+            },
+            "title": "Indicator"
           },
           {
             "name": "Value",

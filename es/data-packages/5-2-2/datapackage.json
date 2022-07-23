@@ -12,8 +12,84 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Geographical Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Jamaica",
+                "Urban",
+                "Rural",
+                "Total",
+                ""
+              ]
+            },
+            "title": "Geographical Region"
+          },
+          {
+            "name": "Form of Sexual Violence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Forced Intercourse",
+                "Attempted Intercourse",
+                "Unwanted Sexual Touching",
+                "Any Sexual Violence",
+                "Non-partner Sexual Harassment",
+                "Current non-partner Transactional sex",
+                "None",
+                "Attempted Intercource",
+                "Non-partner sexual harassment",
+                "Current Non-partner transactional sex",
+                ""
+              ]
+            },
+            "title": "Form of Sexual Violence"
+          },
+          {
+            "name": "Partner Status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lifetime Partner",
+                "Current Partner",
+                "Current  Partner",
+                ""
+              ]
+            },
+            "title": "Partner Status"
+          },
+          {
+            "name": "Main Source of Income",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Income from own work",
+                "Support from partner/husband",
+                "Support from relatives and friends",
+                "No income/pension/ social services/other",
+                "Support  from partner/husband",
+                "Support  from relatives and friends",
+                "No income  /pension/ social services/other",
+                ""
+              ]
+            },
+            "title": "Main Source of Income"
+          },
+          {
+            "name": "Age at First Union",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "19 or older",
+                "18 or younger",
+                ""
+              ]
+            },
+            "title": "Age at First Union"
           },
           {
             "name": "Value",

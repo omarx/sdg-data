@@ -12,8 +12,45 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Type of Toilet Facility",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Water Closet Linked to Central Sewer Network",
+                "Water Closet Linked to Offsite disposal system",
+                "Water Closet Linked to Onsite disposal system",
+                "Pit Laterine",
+                "Other",
+                "Water Closet Linked to Sewer",
+                "Water Closet Not Linked to Sewer",
+                "Water Closet Linked to Offsite Disposal System",
+                "Water Closet Linked to Onsite Disposal System",
+                "Pit Latrine",
+                ""
+              ]
+            },
+            "title": "Type of Toilet Facility"
+          },
+          {
+            "name": "Geographical Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Jamaica",
+                "GKMA",
+                "Other Urban Centre",
+                "Rural Area",
+                "KMA",
+                "Other Towns",
+                "Rural Areas",
+                ""
+              ]
+            },
+            "title": "Geographical Region"
           },
           {
             "name": "Value",

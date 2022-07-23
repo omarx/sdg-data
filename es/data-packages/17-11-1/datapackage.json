@@ -12,12 +12,49 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
           },
           {
+            "name": "Geographic Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Jamaica",
+                ""
+              ]
+            },
+            "title": "Geographic Region"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "per cent 0.008",
+                "per cent 0.007",
+                "per cent 0.010",
+                "(%)",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Developing Countries",
+                "Jamaica",
+                ""
+              ]
+            },
+            "title": "Category"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]

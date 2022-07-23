@@ -12,12 +12,46 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
+            "name": "Type of Health Worker",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Pharmacist",
+                "Pharmaceutical Technician and Assistants",
+                "General Medical Practitioner",
+                "Specialist Medical Practitioner",
+                "Nursing Professional",
+                "Nursing Associate Professional",
+                "Midwifery Professional",
+                "Midwifery Associate Professional",
+                "Dentist",
+                "Dental Assistant",
+                "Jamaica",
+                ""
+              ]
+            },
+            "title": "Type of Health Worker"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number",
+                "Density (per 10",
+                "Density (per 10.000 population)",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]

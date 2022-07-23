@@ -12,7 +12,83 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Development Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Literacy-Numeracy",
+                "Physical",
+                "Social-Emotional",
+                "Learning",
+                "Early Childhood Development Index Score",
+                "Number of children age 36-59 months",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geographic Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "KMA",
+                "Other Towns",
+                "Urban",
+                "Rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "36-47 months",
+                "48-59 months",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Preschool attendance",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Attending preschool",
+                "Not attending preschool",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Wealth Index Quintiles",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Poorest",
+                "Second",
+                "Middle",
+                "Fourth",
+                "Richest",
+                "Total",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

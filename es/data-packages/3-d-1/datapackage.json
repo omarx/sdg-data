@@ -12,12 +12,46 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
           },
           {
+            "name": "Category of International Health Regulations",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Legislation Policy Financing",
+                "Coordination and NFP Communication",
+                "Surveillance",
+                "Response",
+                "Preparedness",
+                "Risk Communication",
+                "Human Resources",
+                "Laboratory",
+                "Points of Entry",
+                "Zoonotic Events",
+                "Food Safety Events",
+                "Chemical Events",
+                "Radiation Emergencies",
+                ""
+              ]
+            },
+            "title": "Category of International Health Regulations"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Score",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

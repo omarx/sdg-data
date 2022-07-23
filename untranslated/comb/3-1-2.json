@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2015,2016,2017,2018],"Geographical Region":["Jamaica","Jamaica","Jamaica","Jamaica"],"Unit":["(Proportion of Births)","(Proportion of Births)","(Proportion of Births)","(Proportion of Births)"],"Value":[99.7,99.7,99.7,99.8]},"edges":{"From":["Geographical Region"],"To":["Unit"]}}

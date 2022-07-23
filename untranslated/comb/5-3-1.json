@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2011,2011,2011,2011,2011,2011,2011,2011],"Geographical Region":["Jamaica","KMA","Other Towns","Rural Area","Jamaica","KMA","Other Towns","Rural Area"],"Age Group":["Before 18 years old","Before 18 years old","Before 18 years old","Before 18 years old","Before 15 years old","Before 15 years old","Before 18 years old","Before 18 years old"],"Value":[7.9,9.7,6.9,6.8,1.4,1.5,1.8,1.0]},"edges":{"From":["Geographical Region"],"To":["Age Group"]}}

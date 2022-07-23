@@ -12,7 +12,45 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Parish",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kingston and St Andrew",
+                "St Thomas",
+                "Portland",
+                "St Mary",
+                "St Ann",
+                "Trelawny",
+                "St James",
+                "Hanover",
+                "Westmoreland",
+                "St Elizabeth",
+                "Manchester",
+                "Clarendon",
+                "St Catherine",
+                "Portmore",
+                "Jamaica",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Location of Shelter",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "School",
+                "Church",
+                "Community Centre",
+                "Other",
+                "Total",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -8,16 +8,44 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
+            "name": "Mode of Transport",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of Air Passenger Movement",
+                "Freight Movement by Air",
+                "Freight Movement by Water",
+                ""
+              ]
+            },
+            "title": "Mode of Transport"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "'(000)",
+                "('000 tonnes)",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

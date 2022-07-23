@@ -12,7 +12,47 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Type of waste composition",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Compostable",
+                "Paper",
+                "Plastic",
+                "Glass",
+                "Cardboard",
+                "Wood or board",
+                "Metal or tin",
+                "Textile",
+                "E-waste",
+                "Total",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Agency",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Southern Parks and Market",
+                "North Eastern Parks and Markets",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

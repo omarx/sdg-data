@@ -12,7 +12,54 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Category of Child Labour",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Child Labour",
+                "Hazardous Work (%)",
+                "Child Labour other than Hazardous Work",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Boy",
+                "Girl",
+                "Total",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "5-12 years",
+                "13-14 years",
+                "15-17 years",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Area of Residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural Area",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

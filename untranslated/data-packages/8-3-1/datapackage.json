@@ -12,7 +12,44 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Quarter",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "January",
+                "April",
+                "July",
+                "October",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type of employment",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Formal",
+                "Informal",
+                "Agriculture",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                "Total",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

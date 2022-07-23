@@ -12,7 +12,45 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geographical Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rural Area",
+                "KMA",
+                "Other Towns",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-19 years",
+                "20-24 years",
+                "25-29 years",
+                "30-34 years",
+                "35-39 years",
+                "40-44 years",
+                "45-49 years",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -12,7 +12,31 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Geographical Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Jamaica",
+                "KMA",
+                "Other Towns",
+                "Rural Area",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Before 18 years old",
+                "Before 15 years old",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -12,7 +12,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Manufacturing Indicator",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Manufacturing value added as a proportion of total value added",
+                "Manufacturing value added as a proportion of GDP",
+                "Manufacturing value added per capita (US$)",
+                "Manufacturing Value added as a proportion of total Value added",
+                "Manufacturing Value added as a proportion of GDP",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

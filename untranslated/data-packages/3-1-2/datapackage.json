@@ -12,7 +12,27 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Geographical Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Jamaica",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "(Proportion of Births)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

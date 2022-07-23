@@ -12,8 +12,86 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Geographical Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Jamaica",
+                "Greater Kingston Metropolitan Area",
+                "Other Urban cenntre",
+                "Rural Areas",
+                "Kingston Metropolitan Area",
+                "Other Towns",
+                ""
+              ]
+            },
+            "title": "Geographical Area"
+          },
+          {
+            "name": "tenure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Owned",
+                "Leased",
+                "Rented",
+                "Rent Free",
+                "Squatted",
+                ""
+              ]
+            },
+            "title": "tenure"
+          },
+          {
+            "name": "value",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "43.9",
+                "4.3",
+                "15.4",
+                "32.6",
+                "3.4",
+                "45.5",
+                "3.7",
+                "21.6",
+                "24.4",
+                "4.1",
+                "38.6",
+                "5.4",
+                "17.8",
+                "31.2",
+                "6.8",
+                "45.9",
+                "4.0",
+                "10.2",
+                "38.3",
+                "1.2",
+                "40.6",
+                "4.5",
+                "15.9",
+                "35.6",
+                "3.3",
+                "37.3",
+                "31.1",
+                "39.3",
+                "6.9",
+                "16.2",
+                "31.7",
+                "5.9",
+                "43.5",
+                "4.2",
+                "9.7",
+                "40.7",
+                "1.7",
+                ""
+              ]
+            },
+            "title": "value"
           },
           {
             "name": "Value",

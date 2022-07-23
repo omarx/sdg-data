@@ -12,8 +12,36 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Type of Specie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mammals",
+                "Birds",
+                "Amphibians",
+                "Conifers",
+                "Cycads",
+                "Cacti",
+                ""
+              ]
+            },
+            "title": "Type of Specie"
+          },
+          {
+            "name": "status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "endemic",
+                "Threatened",
+                ""
+              ]
+            },
+            "title": "status"
           },
           {
             "name": "Value",

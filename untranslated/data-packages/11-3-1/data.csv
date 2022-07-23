@@ -1,1 +1,44 @@
-Year,Value
+Year,Parish,Type of Rate,Value
+2001-2011,Kingston,Land Consumption Rate (%),0.0
+2001-2011,Kingston,Land Consumption Rate (%),0.0
+2001-2011,St. Andrew,Land Consumption Rate (%),0.13
+2001-2011,St. Thomas,Land Consumption Rate (%),99.35
+2001-2011,Portland,Land Consumption Rate (%),0.35
+2001-2011,St. Mary,Land Consumption Rate (%),20.71
+2001-2011,St. Ann,Land Consumption Rate (%),16.04
+2001-2011,Trelawny,Land Consumption Rate (%),2.3
+2001-2011,St. James,Land Consumption Rate (%),6.21
+2001-2011,Hanover,Land Consumption Rate (%),5.29
+2001-2011,Westmoreland,Land Consumption Rate (%),0.02
+2001-2011,St. Elizabeth,Land Consumption Rate (%),1.67
+2001-2011,Manchester,Land Consumption Rate (%),3.45
+2001-2011,Clarendon,Land Consumption Rate (%),0.31
+2001-2011,St. Catherine,Land Consumption Rate (%),1.47
+2001-2011,Kingston,Population Growth Rate (%),0.8
+2001-2011,St. Andrew,Population Growth Rate (%),0.33
+2001-2011,St. Thomas,Population Growth Rate (%),0.26
+2001-2011,Portland,Population Growth Rate (%),0.2
+2001-2011,St. Mary,Population Growth Rate (%),0.2
+2001-2011,St. Ann,Population Growth Rate (%),0.35
+2001-2011,Trelawny,Population Growth Rate (%),0.3
+2001-2011,St. James,Population Growth Rate (%),0.51
+2001-2011,Hanover,Population Growth Rate (%),0.38
+2001-2011,Westmoreland,Population Growth Rate (%),0.38
+2001-2011,St. Elizabeth,Population Growth Rate (%),0.27
+2001-2011,Manchester,Population Growth Rate (%),0.22
+2001-2011,Clarendon,Population Growth Rate (%),0.35
+2001-2011,St. Catherine,Population Growth Rate (%),0.72
+2001-2011,Kingston,Ratio,0.0
+2001-2011,St Andrew,Ratio,0.39
+2001-2011,St Thomas,Ratio,382.1
+2001-2011,Portland,Ratio,1.74
+2001-2011,St Mary,Ratio,103.53
+2001-2011,St Ann,Ratio,45.84
+2001-2011,Trelawny,Ratio,7.65
+2001-2011,St James,Ratio,12.18
+2001-2011,Hanover,Ratio,13.92
+2001-2011,Westmoreland,Ratio,0.05
+2001-2011,St Elizabeth,Ratio,6.18
+2001-2011,Manchester,Ratio,15.68
+2001-2011,Clarendon,Ratio,0.87
+2001-2011,St Catherine,Ratio,2.04

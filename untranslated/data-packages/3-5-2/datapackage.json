@@ -12,7 +12,38 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "Indicator for harmful drug",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Harmful use of alcohol defined according to the national context as alcohol per capita consumption",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geogaphical Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Jamaica",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

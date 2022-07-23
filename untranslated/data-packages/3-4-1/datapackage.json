@@ -12,7 +12,27 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Mortality Indictor",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mortality rate attributed to cardiovascular disease cancer diabetes or chronic respiratory disease",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geogaphical Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Jamaica",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

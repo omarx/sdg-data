@@ -12,8 +12,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Malaria Indicator",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Malaria incidence per 100.000 population",
+                ""
+              ]
+            },
+            "title": "Malaria Indicator"
+          },
+          {
+            "name": "Geogaphical Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Jamaica",
+                ""
+              ]
+            },
+            "title": "Geogaphical Region"
           },
           {
             "name": "Value",

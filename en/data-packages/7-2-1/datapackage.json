@@ -12,8 +12,41 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Source of Primary Energy Supply",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Petroleum",
+                "Hydropower",
+                "Wind",
+                "Coal",
+                "Bagasse",
+                "Natural Gas",
+                "Solar",
+                "Total Alternative Energy",
+                "Total",
+                "% Renewable Share",
+                "Fuelwood",
+                ""
+              ]
+            },
+            "title": "Source of Primary Energy Supply"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "('000 boe)",
+                "per cent",
+                ""
+              ]
+            },
+            "title": "Unit"
           },
           {
             "name": "Value",

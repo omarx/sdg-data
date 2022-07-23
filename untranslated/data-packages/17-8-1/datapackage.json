@@ -12,7 +12,33 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Geographical Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Jamaica",
+                "Male",
+                "Female",
+                "Urban",
+                "Rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "42.2",
+                "Male",
+                "Female",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

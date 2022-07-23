@@ -12,7 +12,29 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Type of Development Assistance",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Grants",
+                "Loans",
+                "Total",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "(US$M)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

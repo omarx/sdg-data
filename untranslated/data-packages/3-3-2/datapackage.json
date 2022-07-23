@@ -12,7 +12,27 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Tubercolosis Indicator",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tubercolosis incidence per 100.000 population",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geogaphical Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Jamaica",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

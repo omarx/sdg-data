@@ -12,8 +12,36 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Pollutant",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Particulate Matter",
+                "Sulphur Oxide",
+                "Nitrogen Oxides",
+                "Lead",
+                "Total Volatile Organic Compounds",
+                "Carbon Monoxide",
+                ""
+              ]
+            },
+            "title": "Pollutant"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tonnes",
+                "Tonnes 1",
+                ""
+              ]
+            },
+            "title": "Unit"
           },
           {
             "name": "Value",

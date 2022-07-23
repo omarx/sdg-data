@@ -12,8 +12,48 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Land Use or Cover Classification",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total forest area",
+                "Protected forest area",
+                "Total land area",
+                "Forest area as a % of Total land area",
+                "Protected forest area as a % of Total forest area",
+                "Protected forest area as a % of Total land area",
+                "Closed broadleaf forest",
+                "Disturbed broadleaf forest",
+                "Open dry forest – Tall",
+                "Open dry forest – Short",
+                "Plantation",
+                "Secondary forest",
+                "Mangrove forest",
+                "Swamp forest",
+                "Sub-total",
+                "Annual deforestation rate",
+                "Total Forest Cover",
+                ""
+              ]
+            },
+            "title": "Land Use or Cover Classification"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "(1000 ha)",
+                "(per cent)",
+                "Hectares",
+                ""
+              ]
+            },
+            "title": "Unit"
           },
           {
             "name": "Value",

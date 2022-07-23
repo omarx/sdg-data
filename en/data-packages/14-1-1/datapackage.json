@@ -12,12 +12,46 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
+            "name": "Type of Waste Collected",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beverage bottles (plastic)",
+                "Other",
+                "Bottle caps (plastic)",
+                "Plastic pieces (tiny trash)",
+                "Other plastic bags",
+                "Foam pieces (tiny trash)",
+                "Beverage bottles (glass)",
+                "Cup plate (plastic)",
+                "Food wrappers (candy chips etc.)",
+                "Cups plates (foam)",
+                "Take out/away containers (foam)",
+                "Forks knives and spoons",
+                "Food wrappers (candy chips)",
+                ""
+              ]
+            },
+            "title": "Type of Waste Collected"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "(%)",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

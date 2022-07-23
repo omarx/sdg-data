@@ -12,7 +12,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Enrolment Status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enrolled",
+                "Not Enrolled",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24 years old",
+                "25 + years old",
+                "Total",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

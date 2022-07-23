@@ -12,7 +12,78 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Geographical Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Jamaica",
+                "Urban",
+                "Rural",
+                "Total",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Form of Sexual Violence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Forced Intercourse",
+                "Attempted Intercourse",
+                "Unwanted Sexual Touching",
+                "Any Sexual Violence",
+                "Non-partner Sexual Harassment",
+                "Current non-partner Transactional sex",
+                "None",
+                "Attempted Intercource",
+                "Non-partner sexual harassment",
+                "Current Non-partner transactional sex",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Partner Status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lifetime Partner",
+                "Current Partner",
+                "Current  Partner",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Main Source of Income",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Income from own work",
+                "Support from partner/husband",
+                "Support from relatives and friends",
+                "No income/pension/ social services/other",
+                "Support  from partner/husband",
+                "Support  from relatives and friends",
+                "No income  /pension/ social services/other",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age at First Union",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "19 or older",
+                "18 or younger",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2017,2018,2019,2015],"Tubercolosis Indicator":["Tubercolosis incidence per 100.000 population","Tubercolosis incidence per 100.000 population","Tubercolosis incidence per 100.000 population","Tubercolosis incidence per 100.000 population"],"Geogaphical Region":["Jamaica","Jamaica","Jamaica","Jamaica"],"Value":[4.33,3.0,2.78,0.38]},"edges":{"From":["Tubercolosis Indicator"],"To":["Geogaphical Region"]}}

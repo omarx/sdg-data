@@ -12,8 +12,66 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Name of Test",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Grade 4 PEP Literacy Test",
+                "Grade 4 PEP Numeracy Test",
+                "Grade 6 Primary Exit Profile (Mathematics)",
+                "Grade 6 Primary Exit Profile (Language Arts)",
+                "Grade 4 Literacy Test",
+                "Grade 4 Numeracy Test",
+                "Grade 6 Achievement Test (Language Arts)",
+                "Grade 6 Achievement Test (Mathematics)",
+                ""
+              ]
+            },
+            "title": "Name of Test"
+          },
+          {
+            "name": "Descriptor",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of students achieving mastery",
+                "Proportion of Students at Developing Level",
+                "Proportion of Students at Proficient Level",
+                "Proportion of Students at Highly Proficient Level",
+                "Mean Score in Grade Six Achievement Test",
+                ""
+              ]
+            },
+            "title": "Descriptor"
+          },
+          {
+            "name": "Geographical Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Jamaica",
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Geographical Region"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Value",

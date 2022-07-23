@@ -12,12 +12,24 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
+            "name": "Financial Institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of deposit account at banks and other financial institutions supervised by the Bank of Jamaica (BOJ)",
+                "Number of deposit account at commercial banks supervised by the BOJ",
+                ""
+              ]
+            },
+            "title": "Financial Institution"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

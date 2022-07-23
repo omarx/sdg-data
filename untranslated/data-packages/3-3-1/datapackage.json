@@ -12,7 +12,40 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "HIV Indicators",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of New HIV infections per 1000 uninfected population",
+                "Number of newly diagnosed cases of HIV",
+                "Proportion of newly diagnosed cases of HIV",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geographical Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Jamaica",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

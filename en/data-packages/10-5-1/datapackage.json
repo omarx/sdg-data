@@ -12,8 +12,53 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Financial Soundness Indicators-Deposit-taking Institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Regulatory capital to risk-weighted assets",
+                "Tier 1 capital to risk-weighted assets",
+                "Non-performing loans (net) to capital",
+                "Non-performing loans to total loans",
+                "Return on assets",
+                "Return on equity",
+                "Interest margin to income",
+                "Non-interest expenses to income",
+                "Liquid assets to total assets",
+                "Duration on assets -Domestic Bonds",
+                "Duration on assets- Global Bonds",
+                "NOP to capital (Regulatory)",
+                "Net premium to Capital",
+                "Capital to Assets",
+                "(Real estate + unquoted equities + debtors) to total assets",
+                "Receivables to gross premiums",
+                "Equities to total assets",
+                "Net technical reserves to average of net claims paid in last 3 years",
+                "Risk retention ratio (net premium/gross premium)",
+                "Gross Premium to number of employees J$(000)",
+                "Assets per employee (Total assets to number of employees) J$(000)",
+                "Net claims to net premium earned",
+                "Total expenses to net premium written",
+                "Combined ratio = loss + expenses ratios",
+                "Investment income to net premium",
+                "Return on Equity",
+                "Liquid assets to total liabilities",
+                "Capital to Technical Reserves",
+                "Net technical reserves to average of net premiums received in last 3yrs",
+                "Gross Premium to number of employees",
+                "Assets per employee (Total assets to number of employees)",
+                "Expenses to net premium (expense ratio)",
+                "Investment income to investment assets",
+                "Duration of assets and liabilities -Domestic Bonds",
+                "Duration of assets and liabilities - Global Bonds",
+                ""
+              ]
+            },
+            "title": "Financial Soundness Indicators-Deposit-taking Institution"
           },
           {
             "name": "Value",

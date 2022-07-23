@@ -1,1 +1,31 @@
-Year,Value
+Year,Pollutant,Unit,Value
+2009,Particulate Matter,Tonnes,9694.0
+2009,Sulphur Oxide,Tonnes,82164.0
+2009,Nitrogen Oxides,Tonnes,41061.0
+2009,Lead,,0.18
+2009,Total Volatile Organic Compounds,Tonnes,1575.0
+2009,Carbon Monoxide,Tonnes,6435.0
+2010,Particulate Matter,Tonnes,9695.0
+2010,Sulphur Oxide,Tonnes,82165.0
+2010,Nitrogen Oxides,Tonnes,41062.0
+2010,Lead,Tonnes,0.19
+2010,Total Volatile Organic Compounds,Tonnes,1576.0
+2010,Carbon Monoxide,Tonnes,6436.0
+2011,Particulate Matter,Tonnes,9696.0
+2011,Sulphur Oxide,Tonnes,82166.0
+2011,Nitrogen Oxides,Tonnes,41063.0
+2011,Lead,Tonnes,0.2
+2011,Total Volatile Organic Compounds,Tonnes,1577.0
+2011,Carbon Monoxide,Tonnes,6437.0
+2012,Particulate Matter,Tonnes,9697.0
+2012,Sulphur Oxide,Tonnes,82167.0
+2012,Nitrogen Oxides,Tonnes,41064.0
+2012,Lead,Tonnes,0.21
+2012,Total Volatile Organic Compounds,Tonnes 1,578.0
+2012,Carbon Monoxide,Tonnes,6438.0
+2013,Particulate Matter,Tonnes,9698.0
+2013,Sulphur Oxide,Tonnes,82168.0
+2013,Nitrogen Oxides,Tonnes,41065.0
+2013,Lead,Tonnes,0.22
+2013,Total Volatile Organic Compounds,Tonnes,1579.0
+2013,Carbon Monoxide,Tonnes,6439.0

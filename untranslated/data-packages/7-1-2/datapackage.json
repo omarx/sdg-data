@@ -12,7 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Geographical Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Jamaica",
+                "Rural",
+                "KMA",
+                "Other Towns",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

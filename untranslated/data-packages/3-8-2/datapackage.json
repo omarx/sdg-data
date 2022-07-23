@@ -12,7 +12,43 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of respondents covered by health insurance",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geographical Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Jamaica",
+                "Rural Area",
+                "GKMA",
+                "Other Urban cenntre",
+                "KMA",
+                "Other Towns",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -12,11 +12,70 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Subject",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "English A Only",
+                "Mathematics Only",
+                "English A and Mathematics",
+                "English A and/or Mathematics",
+                "Per cent of Cohort",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                "Portland",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Parish",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Jamaica",
+                "Kingston",
+                "St  Andrew",
+                "St  Thomas",
+                "268",
+                "St  Mary",
+                "St  Ann",
+                "Trelawny",
+                "St  James",
+                "Hanover",
+                "Westmoreland",
+                "St  Elizabeth",
+                "Manchester",
+                "Clarendon",
+                "St  Catherine",
+                "51",
+                "232",
+                "551",
+                "43.4",
+                "287",
+                "50",
+                "243",
+                "580",
+                "46.2",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       }

@@ -7,13 +7,71 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Indicator Treatment Intervention",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage who received at least one treatment intervention in their lifetime",
+                "Percntage of persons who did not receive drug treatment within the past 12 months",
+                "Percntage of persons who did not receive drug treatment within the past 12 Jamaica",
+                ""
+              ]
+            },
+            "title": "Indicator Treatment Intervention"
+          },
+          {
+            "name": "Geographical Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Jamaica",
+                ""
+              ]
+            },
+            "title": "Geographical Region"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                "Not sure where to go",
+                "Not ready to stop",
+                "Not finding type needed",
+                "Not on Health Plan",
+                "Treatment unaffordable",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Reasons for not accessing the treatment",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Fear negative effect on job",
+                "Fear neighbours’ negative opinion",
+                "28.1",
+                "21.8",
+                "24.3",
+                "2.3",
+                "12.2",
+                ""
+              ]
+            },
+            "title": "Reasons for not accessing the treatment"
           },
           {
             "name": "Value",

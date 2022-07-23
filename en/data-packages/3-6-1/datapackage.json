@@ -12,8 +12,41 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Indicator for road traffic injuries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Death rate due to road traffic injuries",
+                ""
+              ]
+            },
+            "title": "Indicator for road traffic injuries"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "per 100.000 population",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Geographical Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Jamaica",
+                ""
+              ]
+            },
+            "title": "Geographical Region"
           },
           {
             "name": "Value",

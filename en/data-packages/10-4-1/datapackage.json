@@ -12,8 +12,39 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Type of GDP by Income at Market Prices",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Compensation of Employees",
+                "Operating Surplus/Mixed Income",
+                "Consumption of Fixed Capital",
+                "Taxes on Production & Imports",
+                "Less Subsidies on Production & Imports",
+                "Gross Domestic Product at Market Prices",
+                "Labour Share of GDP",
+                "Operating Surplus/Mixed Income share of GDP",
+                "Fixed Capital share of GDP",
+                ""
+              ]
+            },
+            "title": "Type of GDP by Income at Market Prices"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "($ Million)",
+                "(Per cent)",
+                ""
+              ]
+            },
+            "title": "Unit"
           },
           {
             "name": "Value",

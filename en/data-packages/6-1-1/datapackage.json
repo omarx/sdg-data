@@ -12,8 +12,39 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Geographical Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Jamaica",
+                "GKMA",
+                "Other Urban centre",
+                "Rural Area",
+                "KMA",
+                "Other Towns",
+                ""
+              ]
+            },
+            "title": "Geographical Region"
+          },
+          {
+            "name": "Wealth Quintile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Poorest",
+                "Quintile 2",
+                "Quintile 3",
+                "Quintile 4",
+                "Wealthiest",
+                ""
+              ]
+            },
+            "title": "Wealth Quintile"
           },
           {
             "name": "Value",

@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2014,2015,2016],"Geographical Region":["Jamaica","Jamaica","Jamaica"],"Category":["Level of Water Stress","Level of Water Stress","Level of Water Stress"],"Value":[33.724,33.454,33.464]},"edges":{"From":["Geographical Region"],"To":["Category"]}}

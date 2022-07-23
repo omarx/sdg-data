@@ -12,7 +12,33 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Type of Transpotation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Route Taxi",
+                "JUTC Buses",
+                "Minibus",
+                "Robot",
+                "Coaster",
+                "Chartered",
+                "Hackney",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geographic Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Jamaica",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

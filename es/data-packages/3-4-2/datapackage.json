@@ -12,8 +12,66 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Suicide rate",
+                ""
+              ]
+            },
+            "title": "Indicator"
+          },
+          {
+            "name": "Geographical Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Jamaica",
+                "Kingston & St Andrew",
+                "St Thomas",
+                "Portland",
+                "St Mary",
+                "St Ann",
+                "Trelawny",
+                "St James",
+                "Hanover",
+                "Westmoreland",
+                "St Elizabeth",
+                "Manchester",
+                "Clarendon",
+                "St Catherine",
+                ""
+              ]
+            },
+            "title": "Geographical Area"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "per 100 000 population",
+                ""
+              ]
+            },
+            "title": "Unit"
           },
           {
             "name": "Value",

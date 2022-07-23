@@ -1,14 +1,66 @@
 Value,Disaggregation combinations using this value,Number of indicators
-%,12,1
+%,49,3
+('000 boe),10,1
+('000 Mwh),5,1
+'000 Mwh),1,1
+('000 MWh),1,1
+('000 tonnes),12,2
+'(000),1,1
+(1000 ha),3,1
+1097.20,1,1
+14.0,1,1
+1411.30,1,1
+14.4,1,1
+14.8,1,1
+1660.90,1,1
 19,1,1
+1990.3,1,1
 204,1,1
+224,1,1
 242,1,1
 35,1,1
+495,1,1
 524,1,1
 587,1,1
+87.0,1,1
 939,1,1
 98,1,1
-Number,80,1
-per 100.000 population,14,1
+(%),59,7
+Cumulative Mean Beach Width (m),9,1
+Density (per 10,9,1
+Density (per 10.000 population),11,1
+(Health Index),16,1
+Hectares,11,1
+(J$ Million),6,3
+Land Area ( ha),10,1
+Marine Area (ha),6,1
+(Maternal Mortality Ratio),1,1
+(Million Tonnes),8,1
+($ Million),6,1
+(Neonatal Mortality Ratio),1,1
+Number of Sites,9,1
+Number,91,2
+per 100 000 population,16,1
+(per 100 inhabitants),1,1
+per 100,1,1
+per 100.000 adults,4,1
+(per 100.000 population),27,1
+per 100.000 population,15,2
+per cent 0.007,1,1
+per cent 0.008,1,1
+per cent 0.010,1,1
+per cent,1,1
+(Per cent),5,2
+(per cent),3,1
+(Proportion of Births),1,1
+Score,13,1
 St Ann,1,1
 St Mary,1,1
+Tonnes 1,1,1
+(Tonnes),10,1
+Tonnes,6,1
+Total Volume of Waste (tonnes),5,1
+(Under five Mortality Ratio),1,1
+(US$ Million),3,1
+(US$M),3,1
+(US$Mn),2,1

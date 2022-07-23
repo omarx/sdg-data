@@ -12,7 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Type of Official International Support",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Grants",
+                "Loans",
+                "Total",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

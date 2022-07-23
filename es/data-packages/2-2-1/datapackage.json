@@ -12,8 +12,51 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Geographical Regions",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Jamaica",
+                "Rural Areas",
+                "GKMA",
+                "Other Urban cenntre",
+                "KMA",
+                "Other Towns",
+                ""
+              ]
+            },
+            "title": "Geographical Regions"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Age Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0-11 Months",
+                "12-23 Months",
+                "24-35 Months",
+                "36-47 Months",
+                "48-59 Months",
+                ""
+              ]
+            },
+            "title": "Age Group"
           },
           {
             "name": "Value",

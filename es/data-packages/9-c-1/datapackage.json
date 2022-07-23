@@ -12,8 +12,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "ICT Infrastructure and Access Indicators",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Fixed telephone subscriptions",
+                "Mobile cellular subscriptions",
+                "Fixed broadband Internet subscriptions",
+                "Fixed Internet subscriptions",
+                ""
+              ]
+            },
+            "title": "ICT Infrastructure and Access Indicators"
           },
           {
             "name": "Value",

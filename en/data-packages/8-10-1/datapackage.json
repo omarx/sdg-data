@@ -12,8 +12,43 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Financial Institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of commercial bank branches",
+                "Number of automated teller machines (ATMs)",
+                ""
+              ]
+            },
+            "title": "Financial Institution"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "per 100.000 adults",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "value",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "6.82",
+                "37.29",
+                ""
+              ]
+            },
+            "title": "value"
           },
           {
             "name": "Value",

@@ -1,1 +1,28 @@
-Year,Value
+Year,Name of Weather Event,Type of Effect,Unit,Value
+2002,Flood Rains,Persons Affeted,(per 100.000 population),50021.0
+2002,Flood Rains,Persons Dead,(per 100.000 population),0.344
+2002,Flood Rains,Persons Missing,(per 100.000 population),0.0
+2004,Hurricane Ivan,Persons Affeted,(per 100.000 population),14009.0
+2004,Hurricane Ivan,Persons Dead,(per 100.000 population),0.644
+2004,Hurricane Ivan,Persons Missing,(per 100.000 population),0.0
+2005,Hurricane Dennis and Emily,Persons Affeted,(per 100.000 population),12521.0
+2005,Hurricane Dennis and Emily,Persons Dead,(per 100.000 population),0.264
+2005,Hurricane Dennis and Emily,Persons Missing,(per 100.000 population),0.0
+2005,Hurricane Wilma,Persons Affeted,(per 100.000 population),13669.0
+2005,Hurricane Wilma,Persons Dead,(per 100.000 population),0.113
+2005,Hurricane Wilma,Persons Missing,(per 100.000 population),0.0
+2007,Hurricane Dean,Persons Affeted,(per 100.000 population),6744.0
+2007,Hurricane Dean,Persons Dead,(per 100.000 population),0.225
+2007,Hurricane Dean,Persons Missing,(per 100.000 population),0.0
+2008,Tropical Storm Gustav,Persons Affeted,(per 100.000 population),16842.0
+2008,Tropical Storm Gustav,Persons Dead,(per 100.000 population),0.374
+2008,Tropical Storm Gustav,Persons Missing,(per 100.000 population),0.0
+2010,Tropical Storm Nicole,Persons Affeted,(per 100.000 population),18873.0
+2010,Tropical Storm Nicole,Persons Dead,(per 100.000 population),0.52
+2010,Tropical Storm Nicole,Persons Missing,(per 100.000 population),0.074
+2012,Hurricane Sandy,Persons Affeted,(per 100.000 population),25150.0
+2012,Hurricane Sandy,Persons Dead,(per 100.000 population),0.074
+2012,Hurricane Sandy,Persons Missing,(per 100.000 population),0.0
+2017,March to June Rains,Persons Affeted,(per 100.000 population),90613.0
+2017,March to June Rains,Persons Dead,(per 100.000 population),0.037
+2017,March to June Rains,Persons Missing,(per 100.000 population),0.0

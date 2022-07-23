@@ -1,1 +1,54 @@
-Year,Value
+Year,Geographical Region,Wealth Quintile,Value
+2019,Jamaica,,76.6
+2019,GKMA,,98.4
+2019,Other Urban centre,,87.2
+2019,Rural Area,,
+2019,,Poorest,62.2
+2019,,Quintile 2,67.1
+2019,,Quintile 3,74.0
+2019,,Quintile 4,77.9
+2019,,Wealthiest,85.8
+2013,KMA,,98.8
+2013,Other Towns,,88.1
+2013,Rural Area,,62.3
+2013,,Poorest,65.9
+2013,,Quintile 2,67.6
+2013,,Quintile 3,70.7
+2013,,Quintile 4,80.6
+2013,,Wealthiest,88.7
+2014,Jamaica,,79.7
+2014,KMA,,99.0
+2014,Other Towns,,86.5
+2014,Rural Area,,63.0
+2014,,Poorest,65.7
+2014,,Quintile 2,70.1
+2014,,Quintile 3,73.3
+2014,,Quintile 4,83.6
+2014,,Wealthiest,82.7
+2015,Jamaica,,80.1
+2015,KMA,,99.5
+2015,Other Towns,,88.9
+2015,Rural Area,,63.9
+2015,,Poorest,64.3
+2015,,Quintile 2,74.4
+2015,,Quintile 3,75.5
+2015,,Quintile 4,77.9
+2015,,Wealthiest,86.6
+2016,Jamaica,,80.7
+2016,KMA,,99.1
+2016,Other Towns,,85.0
+2016,Rural Area,,64.5
+2016,,Poorest,69.3
+2016,,Quintile 2,74.6
+2016,,Quintile 3,76.7
+2016,,Quintile 4,82.1
+2016,,Wealthiest,87.5
+2017,Jamaica,,78.7
+2017,KMA,,98.3
+2017,Other Towns,,82.1
+2017,Rural Area,,64.5
+2017,,Poorest,73.1
+2017,,Quintile 2,71.7
+2017,,Quintile 3,72.8
+2017,,Quintile 4,80.9
+2017,,Wealthiest,84.9

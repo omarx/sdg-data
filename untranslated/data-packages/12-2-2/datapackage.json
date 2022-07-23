@@ -12,11 +12,59 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Type of Mineral",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bauxite",
+                "Alumina",
+                "Silica Sand",
+                "Limestone",
+                "Sand and Gravel",
+                "Marl and Fill",
+                "Shale",
+                "Pozzolan",
+                "Clay",
+                "Gypsum",
+                "Steam & Slow Speed Plants",
+                "Gas Turbines & Combined Cycle Plant",
+                "Hydro",
+                "Purchase from Independent Power Producers (IIPs) ('000 Mwh)",
+                "Total",
+                "Percentage Contribution of Jamaica Public Service Company (JPSCo)",
+                "Percentage Contribution of IIPs",
+                "Lossess & Accounted for",
+                "System losses as a percentage of net generation",
+                "Purchase from Independent Power Producers (IIPs)",
+                "Lossess & Accounted for ('000 MWh)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "(Tonnes)",
+                "('000 Mwh)",
+                "1990.3",
+                "(%)",
+                "('000 MWh)",
+                "'000 Mwh)",
+                "1411.30",
+                "1097.20",
+                "1660.90",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       }

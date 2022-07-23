@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2014],"Mortality Indictor":["Mortality rate attributed to cardiovascular disease cancer diabetes or chronic respiratory disease"],"Geogaphical Region":["Jamaica"],"Value":[67.0]},"edges":{"From":["Mortality Indictor"],"To":["Geogaphical Region"]}}

@@ -12,12 +12,45 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Official Development Assistance (ODA)",
+                "Foreign Direct Investment (FDI)",
+                "% ODA / Central Government Expenditure",
+                "% FDI / Central Government Expenditure",
+                "Remittance Inflows",
+                "GDP (Current)",
+                "Remittance as a  proportion of GDP",
+                ""
+              ]
+            },
+            "title": "Category"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "(J$ Million)",
+                "(Per cent)",
+                "(US$Mn)",
+                "14.8",
+                "14.4",
+                "14.0",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]

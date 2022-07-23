@@ -12,7 +12,107 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Form of Violence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Economic Violence",
+                "Emotional Violence",
+                "Physical Violence",
+                "Sexual Violence",
+                "Physical and or sexual Violence",
+                "Physical and/or  Sexual Violence Violence",
+                "Physical and/or Sexual Violence",
+                "None",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Partner Status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lifetime intimate Partner",
+                "Current Intimate Partner",
+                "Lifetime",
+                "Current",
+                "Lifetime Higher",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geographical Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                "Jamaica",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "All Ever-partnered",
+                "21.7",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-19",
+                "20-24",
+                "25-29",
+                "30-34",
+                "35-39",
+                "40-44",
+                "45-49",
+                "50-54",
+                "55-59",
+                "60-64",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Educational Status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "None/Primary",
+                "Secondary",
+                "Vocational",
+                "Higher",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age at First Union",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "19 or Older",
+                "18 or younger 45.0",
+                "18 or younger 16.0",
+                "18 or younger",
+                "18 or Younger",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2015],"Indicator":["Mortality rate attributed to unintentional poisoning"],"Geographical Region":["Jamaica"],"Value":[0.04]},"edges":{"From":["Indicator"],"To":["Geographical Region"]}}

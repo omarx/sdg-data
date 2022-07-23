@@ -12,7 +12,49 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Kapos Mountain Class",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "k1",
+                "k2",
+                "k3",
+                "k4",
+                "k5",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "IPCC Class",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Forest",
+                "Cropland",
+                "Grassland",
+                "Wetland",
+                "Settlement",
+                "Other Land",
+                "MGCI",
+                "MGCI All",
+                "MGC",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "(%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

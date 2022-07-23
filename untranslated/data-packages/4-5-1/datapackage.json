@@ -12,7 +12,69 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "School Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Primary School",
+                "Secondary School",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Index",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Adjusted Net Attendance Ratio (NAR)",
+                "GPI for Adjusted Ratio (NAR)",
+                "GPI for Adjusted Ratio  (NAR)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Girls",
+                "Boys",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geographic Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Other Towns",
+                "Urban Total",
+                "Rural",
+                "Jamaica",
+                "KMA",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Wealth Index Quintiles",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Poorest",
+                "Second",
+                "Middle",
+                "Fourth",
+                "Richest",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -1,1 +1,94 @@
-Year,Value
+Year,Quarter,sex,value,Value
+2019,January,Both Sexes,6.0,
+2019,January,Male,7.2,
+2019,January,Female,4.5,
+2019,April,Both Sexes,6.7,
+2019,April,Male,8.2,
+2019,April,Female,4.9,
+2019,July,Both Sexes,6.6,
+2019,July,Male,8.4,
+2019,July,Female,4.4,
+2019,October,Both Sexes,6.0,
+2019,October,Male,7.6,
+2019,October,Female,4.1,
+2020,January,Both Sexes,5.9,
+2020,January,Male,7.3,
+2020,January,Female,4.1,
+2020,July,Both Sexes,6.5,
+2020,July,Male,8.2,
+2020,July,Female,4.5,
+2020,October,Both Sexes,6.1,
+2020,October,Male,7.7,
+2020,October,Female,4.1,
+2021,January,Both Sexes,6.1,
+2021,January,Male,7.5,
+2021,January,Female,4.7,
+2021,April,Both Sexes,7.1,
+2021,April,Male,8.5,
+2021,April,Female,5.4,
+2021,July,Both Sexes,6.4,
+2021,July,Male,7.8,
+2021,July,Female,4.8,
+2021,October,Both Sexes,5.8,
+2021,October,Male,7.5,
+2021,October,Female,3.8,
+2014,January,Both Sexes,,6.3
+2014,January,Male,,7.4
+2014,January,Female,,4.9
+2014,April,Both Sexes,,6.8
+2014,April,Male,,7.9
+2014,April,Female,,5.4
+2014,July,Both Sexes,,6.3
+2014,July,Male,,7.6
+2014,July,Female,,4.5
+2014,October,Both Sexes,,6.4
+2014,October,Male,,7.6
+2014,October,Female,,4.9
+2015,January,Both Sexes,,7.0
+2015,January,Male,,8.1
+2015,January,Female,,5.5
+2015,April,Both Sexes,,6.4
+2015,April,Male,,7.5
+2015,April,Female,,5.0
+2015,July,Both Sexes,,6.1
+2015,July,Male,,7.5
+2015,July,Female,,4.2
+2015,October,Both Sexes,,6.2
+2015,October,Male,,7.7
+2015,October,Female,,4.2
+2016,January,Both Sexes,,6.3
+2016,January,Male,,7.7
+2016,January,Female,,4.5
+2016,April,Both Sexes,,6.9
+2016,April,Male,,8.0
+2016,April,Female,,5.4
+2016,July,Both Sexes,,6.9
+2016,July,Male,,8.1
+2016,July,Female,,5.3
+2016,October,Both Sexes,,6.3
+2016,October,Male,,7.4
+2016,October,Female,,4.9
+2017,January,Both Sexes,,6.5
+2017,January,Male,,7.4
+2017,January,Female,,5.3
+2017,April,Both Sexes,,6.5
+2017,April,Male,,7.3
+2017,April,Female,,5.4
+2017,July,Both Sexes,,7.0
+2017,July,Male,,8.4
+2017,July,Female,,5.3
+2017,October,Both Sexes,,6.6
+2017,October,Male,,8.2
+2017,October,Female,,4.6
+2018,January,Both Sexes,,6.3
+2018,January,Male,,7.4
+2018,January,Female,,4.9
+2018,April,Both Sexes,,6.6
+2018,April,Male,,7.7
+2018,April,Female,,5.3
+2018,July,Both Sexes,,7.0
+2018,July,Male,,8.7
+2018,July,Female,,4.8
+2018,October,Both Sexes,,6.3
+2018,October,Male,,7.8
+2018,October,Female,,4.5

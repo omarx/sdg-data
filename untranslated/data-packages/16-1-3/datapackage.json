@@ -12,11 +12,24 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Type of Violence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Aggravated Assault",
+                "Shooting",
+                "Rape",
+                "Total Sexual Violence",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

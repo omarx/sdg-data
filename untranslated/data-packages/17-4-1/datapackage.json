@@ -12,7 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Type of Debt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Publicly Issued External Debt Outstanding/ Exports of Goods Services & Current Transfers",
+                "Publicly Issued External Debt Service Ratio (accrued)",
+                "Publicly Issued External Debt Service Ratio (actual)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -12,11 +12,35 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Watershed",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Metropolitan Parks & Markets",
+                "Western Parks & Markets",
+                "Southern Parks & Markets",
+                "North-eastern Parks & Markets",
+                "Total",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total Volume of Waste (tonnes)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

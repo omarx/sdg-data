@@ -12,7 +12,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Central Government Revenue and Grants",
+                "Fiscal Year GDP",
+                "Proportion of Central Government Revenue to GDP",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "(J$ Million)",
+                "(%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -12,8 +12,53 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Quarter",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "January",
+                "April",
+                "July",
+                "October",
+                ""
+              ]
+            },
+            "title": "Quarter"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Both Sexes",
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Age Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "14-19",
+                "20-24",
+                "25-34",
+                "35-44",
+                "45-54",
+                "55-64",
+                "65 and over",
+                ""
+              ]
+            },
+            "title": "Age Group"
           },
           {
             "name": "Value",

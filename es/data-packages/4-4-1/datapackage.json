@@ -12,8 +12,37 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "ICT Skill",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Copying or moving files or folders",
+                "Using copy and paste tools to move or duplicate information in documents",
+                "Sending e-mails with files attached",
+                "Connecting or installing new devices",
+                "Finding/ downloading or installing new software",
+                "Transferring files between a computer and other",
+                "Finding/downloading or installing new software",
+                ""
+              ]
+            },
+            "title": "ICT Skill"
+          },
+          {
+            "name": "Age Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24 years old",
+                "25+ years old",
+                ""
+              ]
+            },
+            "title": "Age Group"
           },
           {
             "name": "Value",

@@ -1,4 +1,241 @@
 Year,Type of Benefit,Geographic Region,Population Group,Unit,Value
+2016,Population covered by PATH,Jamaica,,%,13.4
+2016,Population covered by PATH,,Children,%,30.9
+2016,Population covered by PATH,,Adult,%,0.9
+2016,Population covered by PATH,,Elderly,%,21.1
+2016,Population covered by PATH,,Pregnant and Lactating Women,%,0.20
+2017,Population covered by PATH,Jamaica,,%,12.7
+2017,Population covered by PATH,,Children,%,30.3
+2017,Population covered by PATH,,Adult,%,0.3
+2017,Population covered by PATH,,Elderly,%,20.8
+2017,Population covered by PATH,,Pregnant and Lactating Women,%,0.20
+2018,Population covered by PATH,Jamaica,,%,12.5
+2018,Population covered by PATH,,Children,%,28.9
+2018,Population covered by PATH,,Adult,%,0.7
+2018,Population covered by PATH,,Elderly,%,21.9
+2018,Population covered by PATH,,Pregnant and Lactating Women,%,0.13
+2019,Persons Registered with the National Insurance Scheme,Jamaica,,%,62.8
+2019,Persons Registered with the National Insurance Scheme,GKMA,,%,64.0
+2019,Persons Registered with the National Insurance Scheme,OUC,,%,74.4
+2019,Persons Registered with the National Insurance Scheme,Rural,,%,55.9
+2019,Persons Registered with the National Insurance Scheme,,Male,%,62.1
+2019,Persons Registered with the National Insurance Scheme,,Female,%,63.4
+2016,Registered with Jamaica Drugs for the Elderly Programme,Jamaica,,%,15.7
+2016,Registered with Jamaica Drugs for the Elderly Programme,GKMA,,%,27.5
+2016,Registered with Jamaica Drugs for the Elderly Programme,OUC,,%,11.4
+2016,Registered with Jamaica Drugs for the Elderly Programme,Rural,,%,12.1
+2016,Registered with Jamaica Drugs for the Elderly Programme,,Male,%,10.3
+2016,Registered with Jamaica Drugs for the Elderly Programme,,Female,%,20.8
+2016,Registered with the National Health Fund,Jamaica,,%,10.2
+2016,Registered with the National Health Fund,GKMA,,%,10.0
+2016,Registered with the National Health Fund,OUC,,%,10.8
+2016,Registered with the National Health Fund,Rural,,%,10.1
+2016,Registered with the National Health Fund,,Male,%,7.0
+2016,Registered with the National Health Fund,,Female,%,13.3
+2017,Registered with the National Health Fund,Jamaica,,%,12.4
+2017,Registered with the National Health Fund,GKMA,,%,12.6
+2017,Registered with the National Health Fund,OUC,,%,12.8
+2017,Registered with the National Health Fund,Rural,,%,12.1
+2017,Registered with the National Health Fund,,Male,%,9.1
+2017,Registered with the National Health Fund,,Female,%,15.6
+2018,Registered with the National Health Fund,Jamaica,,%,15.6
+2018,Registered with the National Health Fund,GKMA,,%,15.1
+2018,Registered with the National Health Fund,OUC,,%,16.1
+2018,Registered with the National Health Fund,Rural,,%,15.6
+2018,Registered with the National Health Fund,,Male,%,12.2
+2018,Registered with the National Health Fund,,Female,%,18.9
+2019,Registered with the National Health Fund,Jamaica,,%,15.4
+2019,Registered with the National Health Fund,GKMA,,%,15.3
+2019,Registered with the National Health Fund,OUC,,%,14.9
+2019,Registered with the National Health Fund,Rural,,%,15.7
+2019,Registered with the National Health Fund,,Male,%,10.1
+2019,Registered with the National Health Fund,,Female,%,20.3
+2018,Registered with Jamaica Drugs for the Elderly Programme,Jamaica,,%,17.4
+2018,Registered with Jamaica Drugs for the Elderly Programme,GKMA,,%,26.3
+2018,Registered with Jamaica Drugs for the Elderly Programme,OUC,,%,17.6
+2018,Registered with Jamaica Drugs for the Elderly Programme,Rural,,%,13.0
+2018,Registered with Jamaica Drugs for the Elderly Programme,,Male,%,13.2
+2018,Registered with Jamaica Drugs for the Elderly Programme,,Female,%,21.3
+2017,Registered with Jamaica Drugs for the Elderly Programme,Jamaica,,%,17.2
+2017,Registered with Jamaica Drugs for the Elderly Programme,GKMA,,%,29.0
+2017,Registered with Jamaica Drugs for the Elderly Programme,OUC,,%,17.8
+2017,Registered with Jamaica Drugs for the Elderly Programme,Rural,,%,11.0
+2017,Registered with Jamaica Drugs for the Elderly Programme,,Male,%,13.9
+2017,Registered with Jamaica Drugs for the Elderly Programme,,Female,%,20.3
+2019,Registered with Jamaica Drugs for the Elderly Programme,Jamaica,,%,18.1
+2019,Registered with Jamaica Drugs for the Elderly Programme,GKMA,,%,20.9
+2019,Registered with Jamaica Drugs for the Elderly Programme,OUC,,%,15.4
+2019,Registered with Jamaica Drugs for the Elderly Programme,Rural,,%,17.6
+2019,Registered with Jamaica Drugs for the Elderly Programme,,Male,%,13.9
+2019,Registered with Jamaica Drugs for the Elderly Programme,,Female,%,22.1
+2017,Outdoor Persons Registered on Poor Relief Programme,Kingston & St Andrew,Male,Number,1354
+2017,Outdoor Persons Registered on Poor Relief Programme,Kingston & St Andrew,Female,Number,1517
+2017,Outdoor Persons Registered on Poor Relief Programme,Kingston & St Andrew,Total,Number,2871
+2017,Outdoor Persons Registered on Poor Relief Programme,St Thomas,Male,Number,212
+2017,Outdoor Persons Registered on Poor Relief Programme,St Thomas,Female,Number,344
+2017,Outdoor Persons Registered on Poor Relief Programme,St Thomas,Total,Number,556
+2017,Outdoor Persons Registered on Poor Relief Programme,Portland,Male,Number,444
+2017,Outdoor Persons Registered on Poor Relief Programme,Portland. Female,Number,587,undefined
+2017,Outdoor Persons Registered on Poor Relief Programme,Portland,Total,Number,1031
+2017,Outdoor Persons Registered on Poor Relief Programme,St Mary,Male,Number,315
+2017,Outdoor Persons Registered on Poor Relief Programme,St Mary Female,Number,204,undefined
+2017,Outdoor Persons Registered on Poor Relief Programme,St Mary,Total,Number,519
+2017,Outdoor Persons Registered on Poor Relief Programme,St Ann,Male,Number,453
+2017,Outdoor Persons Registered on Poor Relief Programme,St Ann,Female,Number,486
+2017,Outdoor Persons Registered on Poor Relief Programme,St Ann,Total,939,undefined
+2017,Outdoor Persons Registered on Poor Relief Programme,Trelawny,Male,Number,252
+2017,Outdoor Persons Registered on Poor Relief Programme,Trelawny,Female,Number,214
+2017,Outdoor Persons Registered on Poor Relief Programme,Trelawny,Total,Number,466
+2017,Outdoor Persons Registered on Poor Relief Programme,St James,Male,Number,685
+2017,Outdoor Persons Registered on Poor Relief Programme,St James,Female,Number,586
+2017,Outdoor Persons Registered on Poor Relief Programme,St James,Total,Number,1271
+2017,Outdoor Persons Registered on Poor Relief Programme,Hanover,Male,Number,322
+2017,Outdoor Persons Registered on Poor Relief Programme,Hanover,Female,Number,389
+2017,Outdoor Persons Registered on Poor Relief Programme,Hanover,Total,Number,711
+2017,Outdoor Persons Registered on Poor Relief Programme,Westmoreland,Male,Number,281
+2017,Outdoor Persons Registered on Poor Relief Programme,Westmoreland,Female,Number,274
+2017,Outdoor Persons Registered on Poor Relief Programme,Westmoreland,Total,Number,555
+2017,Outdoor Persons Registered on Poor Relief Programme,St Elizabeth,Male,Number,292
+2017,Outdoor Persons Registered on Poor Relief Programme,St Elizabeth,Female,Number,374
+2017,Outdoor Persons Registered on Poor Relief Programme,St Elizabeth,Total,Number,666
+2017,Outdoor Persons Registered on Poor Relief Programme,Manchester,Male,Number,301
+2017,Outdoor Persons Registered on Poor Relief Programme,Manchester,Female,Number,231
+2017,Outdoor Persons Registered on Poor Relief Programme,Manchester,Total,Number,532
+2017,Outdoor Persons Registered on Poor Relief Programme,Clarendon,Male,Number,662
+2017,Outdoor Persons Registered on Poor Relief Programme,Clarendon,Female,Number,563
+2017,Outdoor Persons Registered on Poor Relief Programme,Clarendon,Total,Number,1225
+2017,Outdoor Persons Registered on Poor Relief Programme,St Catherine,Male,Number,847
+2017,Outdoor Persons Registered on Poor Relief Programme,St Catherine,Female,Number,749
+2017,Outdoor Persons Registered on Poor Relief Programme,St Catherine,Total,Number,1596
+2017,Outdoor Persons Registered on Poor Relief Programme,Jamaica,Male,Number,6420
+2017,Outdoor Persons Registered on Poor Relief Programme,Jamaica,Female,Number,6518
+2017,Outdoor Persons Registered on Poor Relief Programme,Jamaica,Total,Number,12938
+2017,Outdoor Persons Registered on Poor Relief Programme,Kingston & St Andrew,,per 100,000 population
+2017,Outdoor Persons Registered on Poor Relief Programme,St Thomas,,per 100.000 population,585
+2017,Outdoor Persons Registered on Poor Relief Programme,Portland,,per 100.000 population,1247
+2017,Outdoor Persons Registered on Poor Relief Programme,St Mary,,per 100.000 population,451
+2017,Outdoor Persons Registered on Poor Relief Programme,St Ann,,per 100.000 population,539
+2017,Outdoor Persons Registered on Poor Relief Programme,Trelawny,,per 100.000 population,613
+2017,Outdoor Persons Registered on Poor Relief Programme,St James,,per 100.000 population,684
+2017,Outdoor Persons Registered on Poor Relief Programme,Hanover,,per 100.000 population,1011
+2017,Outdoor Persons Registered on Poor Relief Programme,Westmoreland,,per 100.000 population,381
+2017,Outdoor Persons Registered on Poor Relief Programme,St Elizabeth,,per 100.000 population,438
+2017,Outdoor Persons Registered on Poor Relief Programme,Manchester,,per 100.000 population,277
+2017,Outdoor Persons Registered on Poor Relief Programme,Clarendon,,per 100.000 population,494
+2017,Outdoor Persons Registered on Poor Relief Programme,St Catherine,,per 100.000 population,306
+2017,Outdoor Persons Registered on Poor Relief Programme,Jamaica,,per 100.000 population,474
+2017,Outdoor Persons Registered on Poor Relief Programme,Kingston & St Andrew,Male,Number,1284
+2017,Outdoor Persons Registered on Poor Relief Programme,Kingston & St Andrew,Female,Number,1623
+2017,Outdoor Persons Registered on Poor Relief Programme,Kingston & St Andrew,Total,Number,2907
+2017,Outdoor Persons Registered on Poor Relief Programme,St Thomas,Male,Number,130
+2017,Outdoor Persons Registered on Poor Relief Programme,St Thomas,Female,Number,141
+2017,Outdoor Persons Registered on Poor Relief Programme,St Thomas,Total,Number,271
+2017,Outdoor Persons Registered on Poor Relief Programme,Portland,Male,Number,375
+2017,Outdoor Persons Registered on Poor Relief Programme,Portland,Female,Number,383
+2017,Outdoor Persons Registered on Poor Relief Programme,Portland,Total,Number,758
+2017,Outdoor Persons Registered on Poor Relief Programme,St Mary,Male,Number,282
+2017,Outdoor Persons Registered on Poor Relief Programme,St Mary Female,Number,242,undefined
+2017,Outdoor Persons Registered on Poor Relief Programme,St Mary Total,Number,524,undefined
+2017,Outdoor Persons Registered on Poor Relief Programme,St Ann,Male,Number,434
+2017,Outdoor Persons Registered on Poor Relief Programme,St Ann,Female,Number,471
+2017,Outdoor Persons Registered on Poor Relief Programme,St Ann,Total,Number,905
+2017,Outdoor Persons Registered on Poor Relief Programme,Trelawny,Male,Number,240
+2017,Outdoor Persons Registered on Poor Relief Programme,Trelawny,Female,Number,204
+2017,Outdoor Persons Registered on Poor Relief Programme,Trelawny,Total,Number,444
+2017,Outdoor Persons Registered on Poor Relief Programme,St James,Male,Number,702
+2017,Outdoor Persons Registered on Poor Relief Programme,St James,Female,Number,674
+2017,Outdoor Persons Registered on Poor Relief Programme,St James,Total,Number,1376
+2017,Outdoor Persons Registered on Poor Relief Programme,Hanover,Male,Number,273
+2017,Outdoor Persons Registered on Poor Relief Programme,Hanover,Female,Number,223
+2017,Outdoor Persons Registered on Poor Relief Programme,Hanover,Total,Number,496
+2017,Outdoor Persons Registered on Poor Relief Programme,Westmoreland,Male,Number,195
+2017,Outdoor Persons Registered on Poor Relief Programme,Westmoreland,Female,Number,182
+2017,Outdoor Persons Registered on Poor Relief Programme,Westmoreland,Total,Number,377
+2017,Outdoor Persons Registered on Poor Relief Programme,St Elizabeth,Male,Number,194
+2017,Outdoor Persons Registered on Poor Relief Programme,St Elizabeth,Female,Number,216
+2017,Outdoor Persons Registered on Poor Relief Programme,St Elizabeth,Total,Number,410
+2017,Outdoor Persons Registered on Poor Relief Programme,Manchester,Male,Number,294
+2017,Outdoor Persons Registered on Poor Relief Programme,Manchester,Female,Number,309
+2017,Outdoor Persons Registered on Poor Relief Programme,Manchester,Total,Number,603
+2017,Outdoor Persons Registered on Poor Relief Programme,Clarendon,Male,Number,378
+2017,Outdoor Persons Registered on Poor Relief Programme,Clarendon,Female,Number,404
+2017,Outdoor Persons Registered on Poor Relief Programme,Clarendon,Total,Number,782
+2017,Outdoor Persons Registered on Poor Relief Programme,St Catherine,Male,Number,828
+2017,Outdoor Persons Registered on Poor Relief Programme,St Catherine,Female,Number,833
+2017,Outdoor Persons Registered on Poor Relief Programme,St Catherine,Total,Number,1661
+2017,Outdoor Persons Registered on Poor Relief Programme,Jamaica,Male,Number,5609
+2017,Outdoor Persons Registered on Poor Relief Programme,Jamaica,Female,Number,5905
+2017,Outdoor Persons Registered on Poor Relief Programme,Jamaica,Total,Number,11514
+2017,Outdoor Persons Registered on Poor Relief Programme,Kingston & St Andrew,,per 100.000 population,434
+2017,Outdoor Persons Registered on Poor Relief Programme,St Thomas,,per 100.000 population,285
+2017,Outdoor Persons Registered on Poor Relief Programme,Portland,,per 100.000 population,917
+2017,Outdoor Persons Registered on Poor Relief Programme,,per 100.000 population,St Mary,456
+2017,Outdoor Persons Registered on Poor Relief Programme,,per 100.000 population,St Ann,519
+2017,Outdoor Persons Registered on Poor Relief Programme,Trelawny,,per 100.000 population,584
+2017,Outdoor Persons Registered on Poor Relief Programme,St James,,per 100.000 population,741
+2017,Outdoor Persons Registered on Poor Relief Programme,Hanover,,per 100.000 population,706
+2017,Outdoor Persons Registered on Poor Relief Programme,Westmoreland,,per 100.000 population,259
+2017,Outdoor Persons Registered on Poor Relief Programme,St Elizabeth,,per 100.000 population,270
+2017,Outdoor Persons Registered on Poor Relief Programme,Manchester,,per 100.000 population,314
+2017,Outdoor Persons Registered on Poor Relief Programme,Clarendon,,per 100.000 population,316
+2017,Outdoor Persons Registered on Poor Relief Programme,St Catherine,,per 100.000 population,319
+2017,Outdoor Persons Registered on Poor Relief Programme,Jamaica,,per 100.000 population,422
+2019,Outdoor Persons Registered on Poor Relief Programme,Kingston & St Andrew,Male,Number,1257
+2019,Outdoor Persons Registered on Poor Relief Programme,Kingston & St Andrew,Female,Number,1545
+2019,Outdoor Persons Registered on Poor Relief Programme,Kingston & St Andrew,Total,Number,2802
+2019,Outdoor Persons Registered on Poor Relief Programme,St Thomas,Male,Number,145
+2019,Outdoor Persons Registered on Poor Relief Programme,St Thomas,Female,Number,143
+2019,Outdoor Persons Registered on Poor Relief Programme,St Thomas,Total,Number,288
+2019,Outdoor Persons Registered on Poor Relief Programme,Portland,Male,Number,367
+2019,Outdoor Persons Registered on Poor Relief Programme,Portland,Female,Number,366
+2019,Outdoor Persons Registered on Poor Relief Programme,Portland,Total,Number,733
+2019,Outdoor Persons Registered on Poor Relief Programme,St Mary,Male,Number,271
+2019,Outdoor Persons Registered on Poor Relief Programme,St Mary Female,Number,224,undefined
+2019,Outdoor Persons Registered on Poor Relief Programme,St Mary Total,Number,495,undefined
+2019,Outdoor Persons Registered on Poor Relief Programme,St Ann,Male,Number,422
+2019,Outdoor Persons Registered on Poor Relief Programme,St Ann,Female,Number,463
+2019,Outdoor Persons Registered on Poor Relief Programme,St Ann,Total,Number,885
+2019,Outdoor Persons Registered on Poor Relief Programme,Trelawny,Male,Number,215
+2019,Outdoor Persons Registered on Poor Relief Programme,Trelawny,Female,Number,186
+2019,Outdoor Persons Registered on Poor Relief Programme,Trelawny,Total,Number,401
+2019,Outdoor Persons Registered on Poor Relief Programme,St James,Male,Number,697
+2019,Outdoor Persons Registered on Poor Relief Programme,St James,Female,Number,673
+2019,Outdoor Persons Registered on Poor Relief Programme,St James,Total,Number,1370
+2019,Outdoor Persons Registered on Poor Relief Programme,Hanover,Male,Number,272
+2019,Outdoor Persons Registered on Poor Relief Programme,Hanover,Female,Number,206
+2019,Outdoor Persons Registered on Poor Relief Programme,Hanover,Total,Number,478
+2019,Outdoor Persons Registered on Poor Relief Programme,Westmoreland,Male,Number,186
+2019,Outdoor Persons Registered on Poor Relief Programme,Westmoreland,Female,Number,169
+2019,Outdoor Persons Registered on Poor Relief Programme,Westmoreland,Total,Number,355
+2019,Outdoor Persons Registered on Poor Relief Programme,St Elizabeth,Male,Number,179
+2019,Outdoor Persons Registered on Poor Relief Programme,St Elizabeth,Female,Number,198
+2019,Outdoor Persons Registered on Poor Relief Programme,St Elizabeth,Total,Number,377
+2019,Outdoor Persons Registered on Poor Relief Programme,Manchester,Male,Number,311
+2019,Outdoor Persons Registered on Poor Relief Programme,Manchester,Female,Number,318
+2019,Outdoor Persons Registered on Poor Relief Programme,Manchester,Total,Number,629
+2019,Outdoor Persons Registered on Poor Relief Programme,Clarendon,Male,Number,335
+2019,Outdoor Persons Registered on Poor Relief Programme,Clarendon,Female,Number,367
+2019,Outdoor Persons Registered on Poor Relief Programme,Clarendon,Total,Number,702
+2019,Outdoor Persons Registered on Poor Relief Programme,St Catherine,Male,Number,742
+2019,Outdoor Persons Registered on Poor Relief Programme,St Catherine,Female,Number,782
+2019,Outdoor Persons Registered on Poor Relief Programme,St Catherine,Total,Number,1524
+2019,Outdoor Persons Registered on Poor Relief Programme,Jamaica,Male,Number,5399
+2019,Outdoor Persons Registered on Poor Relief Programme,Jamaica,Female,Number,5640
+2019,Outdoor Persons Registered on Poor Relief Programme,Jamaica,Total,Number,11039
+2019,Outdoor Persons Registered on Poor Relief Programme,Kingston & St Andrew,,per 100.000 population,423
+2019,Outdoor Persons Registered on Poor Relief Programme,St Thomas,,per 100.000 population,305
+2019,Outdoor Persons Registered on Poor Relief Programme,Portland,,per 100.000 population,905
+2019,Outdoor Persons Registered on Poor Relief Programme,,per 100.000 population,St Mary,430
+2019,Outdoor Persons Registered on Poor Relief Programme,,per 100.000 population,St Ann,501
+2019,Outdoor Persons Registered on Poor Relief Programme,Trelawny,,per 100.000 population,512
+2019,Outdoor Persons Registered on Poor Relief Programme,St James,,per 100.000 population,716
+2019,Outdoor Persons Registered on Poor Relief Programme,Hanover,,per 100.000 population,661
+2019,Outdoor Persons Registered on Poor Relief Programme,Westmoreland,,per 100.000 population,237
+2019,Outdoor Persons Registered on Poor Relief Programme,St Elizabeth,,per 100.000 population,248
+2019,Outdoor Persons Registered on Poor Relief Programme,Manchester,,per 100.000 population,328
+2019,Outdoor Persons Registered on Poor Relief Programme,Clarendon,,per 100.000 population,284
+2019,Outdoor Persons Registered on Poor Relief Programme,St Catherine,,per 100.000 population,293
+2019,Outdoor Persons Registered on Poor Relief Programme,Jamaica,,per 100.000 population,404
 2013,Population covered by PATH,Jamaica,,%,13.7
 2013,Population covered by PATH,,Children,%,40.7
 2013,Population covered by PATH,,Adult,%,0.4

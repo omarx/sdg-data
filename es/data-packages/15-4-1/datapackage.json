@@ -12,8 +12,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Forest area annual net change rate",
+                "Proportion of forest area located within legally-established protected areas",
+                "Proportion of forest area under a long-term forest management plan",
+                ""
+              ]
+            },
+            "title": "Category"
           },
           {
             "name": "Value",

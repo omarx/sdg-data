@@ -12,8 +12,61 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Vaccination Indicator",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BCG",
+                "Polio 1",
+                "Polio 2",
+                "Polio 3",
+                "DPT 1",
+                "DPT 2",
+                "DPT 3",
+                "Measles",
+                "Hep B 1",
+                "Hep B 2",
+                "Hep B 3",
+                "Hib 1",
+                "Hib 2",
+                "Hib 3",
+                "All vaccinations",
+                "All vaccinations excluding HIB",
+                "No vaccinations",
+                "Number of children age 18-29 months",
+                ""
+              ]
+            },
+            "title": "Vaccination Indicator"
+          },
+          {
+            "name": "Time Vaccinated",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Vaccinated at any time before the survey",
+                "Vaccinated by 12 months of age",
+                ""
+              ]
+            },
+            "title": "Time Vaccinated"
+          },
+          {
+            "name": "Source of Vaccination Record",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Vaccination card",
+                "Mother's report",
+                "Either",
+                ""
+              ]
+            },
+            "title": "Source of Vaccination Record"
           },
           {
             "name": "Value",

@@ -12,8 +12,34 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Año"
+          },
+          {
+            "name": "Ministry",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ministry of Education Youth and Information",
+                "Ministry of Health and Wellness",
+                "Ministry of Labour and Social Security",
+                "Ministry of  Labour and Social Secutity",
+                "Ministry of Health",
+                ""
+              ]
+            },
+            "title": "Ministry"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Unit"
           },
           {
             "name": "Value",

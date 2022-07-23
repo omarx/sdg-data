@@ -12,8 +12,52 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
+          },
+          {
+            "name": "Parish",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kingston",
+                "St. Andrew",
+                "St. Thomas",
+                "Portland",
+                "St. Mary",
+                "St. Ann",
+                "Trelawny",
+                "St. James",
+                "Hanover",
+                "Westmoreland",
+                "St. Elizabeth",
+                "Manchester",
+                "Clarendon",
+                "St. Catherine",
+                "St Andrew",
+                "St Thomas",
+                "St Mary",
+                "St Ann",
+                "St James",
+                "St Elizabeth",
+                "St Catherine",
+                ""
+              ]
+            },
+            "title": "Parish"
+          },
+          {
+            "name": "Type of Rate",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Land Consumption Rate (%)",
+                "Population Growth Rate (%)",
+                "Ratio",
+                ""
+              ]
+            },
+            "title": "Type of Rate"
           },
           {
             "name": "Value",

@@ -12,7 +12,54 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Type of hazardous waste",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Used Lead Acid Battery exported",
+                "E-waste exported",
+                "Paint Related Waste exported",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "(Million Tonnes)",
+                "('000 tonnes)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Category of E-waste",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total E-waste generated",
+                "Amount going to large equipment",
+                "Screens monitors and equipment containing screens (..)",
+                "Temperature exchange equipment (Cooling and Freezing Equipment)",
+                "Small E-waste",
+                "of which lamps",
+                "of which small equipment",
+                "of which Small IT and telecommunication equipment",
+                "Screens monitors  and equipment containing screens (..)",
+                "of which: Small IT and telecommunication equipment",
+                "Used lead acid batteries exported",
+                "Lead sulphate exported",
+                "Solid contaminated with polychlorinatedbiphenyl (PCB) exported",
+                "Obsolete pesticide exported",
+                "Total exported",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

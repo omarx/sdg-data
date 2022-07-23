@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2010,2011,2012,2013,2014,2015,2016,2017],"Geographical Region":["Jamaica","Jamaica","Jamaica","Jamaica","Jamaica","Jamaica","Jamaica","Jamaica"],"Unit":["(Neonatal Mortality Ratio)","(Neonatal Mortality Ratio)","(Neonatal Mortality Ratio)","(Neonatal Mortality Ratio)","(Neonatal Mortality Ratio)","(Neonatal Mortality Ratio)","(Neonatal Mortality Ratio)","(Neonatal Mortality Ratio)"],"Value":[14.9,13.2,13.6,13.5,16.7,19.7,0.0,14.1]},"edges":{"From":["Geographical Region"],"To":["Unit"]}}
