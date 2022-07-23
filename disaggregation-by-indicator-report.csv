@@ -75,11 +75,13 @@ Indicator,Disaggregations,Number of disaggregations
 #5-2-1,"Geographical Region, Partner Status, Age at First Union, Age Group, Form of Violence, Group, Educational Status",7
 #5-2-2,"Geographical Region, Form of Sexual Violence, Partner Status, Main Source of Income, Age at First Union",5
 #5-3-1,"Geographical Region, Age Group",2
+#5-5-1a,"Sex, House of Parliament",2
 #5-b-1,"Geographical Region, Sex",2
 #6-1-1,"Geographical Region, Wealth Quintile",2
 #6-2-1,"Geographical Region, Type of Toilet Facility",2
 #6-4-2,"Geographical Region, Category",2
 #6-5-1,Indicators,1
+#6-6-1,"Geographic Region, Indicators",2
 #7-1-1,Geographical Region,1
 #7-1-2,Geographical Region,1
 #7-2-1,"Unit, Source of Primary Energy Supply",2

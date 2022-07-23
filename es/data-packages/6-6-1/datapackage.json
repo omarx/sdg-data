@@ -12,8 +12,35 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Indicators",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lakes and rivers permanent water area change (%)",
+                "Lakes and rivers permanent water area (square kilometres)",
+                "Lakes and rivers permanent water area (% of total land area)",
+                "Lakes and rivers seasonal water area change (%)",
+                "Lakes and rivers seasonal water area (square kilometres)",
+                "Lakes and rivers seasonal water area (% of total land area)",
+                ""
+              ]
+            },
+            "title": "Indicators"
+          },
+          {
+            "name": "Geographic Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Jamaica",
+                ""
+              ]
+            },
+            "title": "Geographic Region"
           },
           {
             "name": "Value",
