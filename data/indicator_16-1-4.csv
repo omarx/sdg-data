@@ -1,0 +1,21 @@
+Year,Region,Safety at time of day,Sex,Value
+2006,Jamaica,Daytime,,
+2006,Jamaica,Nighttime,,71.8
+2009,Jamaica,Daytime,,94.5
+2009,Jamaica,Nighttime,,74.6
+2013,Jamaica,Daytime,,95.3
+2013,Jamaica,Nighttime,,79.1
+2016,Jamaica,Daytime,,95.5
+2016,Jamaica,Nighttime,,81.7
+2019,Jamaica,Daytime,,91.1
+2019,Urban Area,Daytime,,88.0
+2019,Rural Area,Daytime,,94.6
+2019,Jamaica,Daytime,Male,92.2
+2019,Jamaica,Daytime,Female,90.0
+2019,Jamaica,Nighttime,,70.3
+2019,Urban Area,Nighttime,,65.4
+2019,Rural Area,Nighttime,,76.2
+2019,Jamaica,Nighttime,Male,73.7
+2019,Jamaica,Nighttime,Female,66.9
+2011,,Daytime,,95.3
+2011,,Nighttime,,79.1
