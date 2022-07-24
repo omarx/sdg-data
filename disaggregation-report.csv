@@ -1,6 +1,6 @@
 Disaggregation,Number of indicators,Number of values
 Age at First Union,2,6
-Age Group,12,55
+Age Group,11,49
 Agency,1,2
 Area of Residence,1,2
 Category of Child Labour,1,3
@@ -58,12 +58,12 @@ Pollutant,1,6
 Population Group,1,10
 Preschool attendance,1,2
 Proportion of bribery Incident,1,1
-Quarter,3,4
+Quarter,2,4
 Reasons for not accessing the treatment,1,7
 Region,1,3
 Safety at time of day,1,2
 School Type,2,4
-Sex,24,17
+Sex,23,16
 sex,1,3
 Source of Primary Energy Supply,1,11
 Source of Vaccination Record,1,3

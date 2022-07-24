@@ -97,9 +97,8 @@ Indicator,Disaggregations,Number of disaggregations
 #8-10-2,Financial Institution,1
 #8-2-1,Geographical Region,1
 #8-3-1,"Sex, Quarter, Type of employment",3
-#8-5-2,"Sex, Quarter, Age Group",3
 #8-6-1,"Geographical Region, Sex",2
-#8-7-1,"Sex, Age Group, Category of Child Labour, Area of Residence",4
+#8-7-1,"Sex, Category of Child Labour, Age Group, Area of Residence",4
 #8-9-1,GDP (Tourism),1
 #9-1-1,Indicator,1
 #9-1-2,"Unit, Mode of Transport",2
